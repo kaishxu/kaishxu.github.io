@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Kaishuai Xu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kaishuai Xu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kaishxu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kaishuai Xu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "The Hong Kong Polytechnic University"
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/kaishxu"
+  github           : "kaishxu"
   google_plus      :
   keybase          :
   instagram        :
