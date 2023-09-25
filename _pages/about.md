@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD student at The Hong Kong Polytechnic University, advised by Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).
 
 I am interested in Natural Language Processing (NLP), especially clinical NLP and conversational AI. Recently, I focus on the following topics:
-- Interpretable medical dialogue systems involving diagnosis, prescriptions, and concultations. I am committed to enabling machines to function as trustworthy and reliable clinicians; 
+- Interpretable medical dialogue systems involving diagnosis, prescriptions, concultations, etc. I am committed to enabling machines to function as trustworthy and reliable clinicians; 
 - Other healthcare applications empowered by Large Language Models (LLMs). My focus lies on their interpretability and safety. 
 
 Recent News
@@ -32,7 +32,7 @@ Selected Papers
 
 Activities
 ======
-- Conference reviewer in EMNLP 2022.
+- As a conference reviewer in EMNLP 2022.
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
