@@ -14,7 +14,7 @@ Recent News
 ======
 - Sept 2023: I start working on new ideas.
 
-Recent Papers
+Selected Papers
 ======
 - Medical Dialogue Generation via Dual Flow Modeling  
   **Kaishuai Xu**, Wenjun Hou, Yi Cheng, Jian Wang, Wenjie Li  

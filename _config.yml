@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaishuai Xu  许凯帅"
+title                    : "Kaishuai Xu  <br/> 许凯帅"
 title_separator          : "-"
 name                     : &name "Kaishuai Xu"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kaishuai Xu"
   avatar           : "RickAndMorty.jpg"
-  bio              : "The Hong Kong Polytechnic University"
+  bio              : "PhD student"
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
