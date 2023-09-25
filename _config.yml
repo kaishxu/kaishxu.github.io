@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kaishuai Xu"
   avatar           : "RickAndMorty.jpg"
-  bio              : "PhD student"
+  bio              : "Third-year PhD Student"
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qfJ9u80AAAAJ&hl=en"
-  email            :
+  email            : "kaishuaii.xu@connect.polyu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
