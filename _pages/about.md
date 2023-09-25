@@ -10,6 +10,10 @@ redirect_from:
 
 I am a PhD student at The Hong Kong Polytechnic University, advised by Prof. [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).
 
+I am interested in Natural Language Processing (NLP), especially clinical NLP and conversational AI. Recently, I focus on the following topics:
+- Interpretable medical dialogue systems involving diagnosis, prescriptions, and concultations. I am committed to enabling machines to function as trustworthy and reliable clinicians; 
+- Other healthcare applications empowered by LLMs. I focus on interpretability and safety. 
+
 Recent News
 ======
 - Sept 2023: I start working on new ideas.
