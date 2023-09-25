@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! It's me!"
+title: "Hi! It's me!  许凯帅"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,12 +17,12 @@ Recent News
 Recent Papers
 ======
 - Medical Dialogue Generation via Dual Flow Modeling  
-  Kaishuai Xu, Wenjun Hou, Yi Cheng, Jian Wang, Wenjie Li  
+  **Kaishuai Xu**, Wenjun Hou, Yi Cheng, Jian Wang, Wenjie Li  
   ACL 2023 Findings  
   \[[paper](https://arxiv.org/abs/2305.18109)\] \[[code](https://github.com/kaishxu/DFMed)\]
 
 - ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning  
-  Wenjun Hou, Kaishuai Xu, Yi Cheng, Wenjie Li, Jiang Liu  
+  Wenjun Hou, **Kaishuai Xu**, Yi Cheng, Wenjie Li, Jiang Liu  
   ACL 2023  
   \[[paper](https://arxiv.org/abs/2306.06466)\] \[[code](https://github.com/wjhou/ORGan)\]
 
