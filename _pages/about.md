@@ -20,9 +20,9 @@ Recent News
 
 Selected Papers
 ======
-- RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning
+- RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning  
   Wenjun Hou, Yi Cheng, **Kaishuai Xu**, Wenjie Li, Jiang Liu  
-  EMNLP 2023 Findings
+  EMNLP 2023 Findings  
   \[[paper]()\] \[[code]()\]
 
 - Medical Dialogue Generation via Dual Flow Modeling  
