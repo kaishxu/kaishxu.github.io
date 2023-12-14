@@ -14,6 +14,8 @@ I am interested in Natural Language Processing (NLP), especially clinical NLP an
 - Interpretable medical dialogue systems involving diagnosis, prescriptions, concultations, etc. I am committed to enabling machines to function as trustworthy and reliable clinicians; 
 - Other healthcare applications empowered by Large Language Models (LLMs). My focus lies on their interpretability and safety. 
 
+**Always open to collaboration! Feel free to drop an email and I'llbe happy to have a discussion.** 😆
+
 Recent News
 ======
 - Sept 2023: I start working on new ideas.
