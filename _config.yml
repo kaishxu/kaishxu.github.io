@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaishuai Xu<br/>许凯帅"
+title                    : "Kaishuai Xu"
 title_separator          : "-"
 name                     : &name "Kaishuai Xu"
 description              : &description "personal description"
@@ -81,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kaishuai Xu"
+  name2            : "许凯帅"
   avatar           : "RickAndMorty.jpg"
   bio              : "Third-year PhD Student"
   location         : "Hong Kong"
