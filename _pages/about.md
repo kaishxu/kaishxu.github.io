@@ -14,26 +14,24 @@ I am interested in Natural Language Processing (NLP), especially clinical NLP an
 - Interpretable medical dialogue systems involving diagnosis, prescriptions, concultations, etc. I am committed to enabling machines to function as trustworthy and reliable clinicians; 
 - Other healthcare applications empowered by Large Language Models (LLMs). My focus lies on their interpretability and safety. 
 
-**Always open to collaboration! Feel free to drop an email and I'llbe happy to have a discussion.** 😆
-
 Recent News
 ======
 - Sept 2023: I start working on new ideas.
 
 Selected Papers
 ======
-- RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning  
-  Wenjun Hou, *Yi Cheng, ***Kaishuai Xu**, Wenjie Li, Jiang Liu  
+- **RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning**  
+  Wenjun Hou, Yi Cheng*, **Kaishuai Xu***, Wenjie Li, Jiang Liu  
   EMNLP 2023 Findings  
   \[[paper](https://arxiv.org/abs/2310.13864)\] \[[code](https://github.com/wjhou/Recap)\]
 
-- Medical Dialogue Generation via Dual Flow Modeling  
-  **Kaishuai Xu**, *Wenjun Hou, *Yi Cheng, Jian Wang, Wenjie Li  
+- **Medical Dialogue Generation via Dual Flow Modeling**  
+  **Kaishuai Xu**, Wenjun Hou*, Yi Cheng*, Jian Wang, Wenjie Li  
   ACL 2023 Findings  
   \[[paper](https://arxiv.org/abs/2305.18109)\] \[[code](https://github.com/kaishxu/DFMed)\]
 
-- ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning  
-  Wenjun Hou, ***Kaishuai Xu**, *Yi Cheng, Wenjie Li, Jiang Liu  
+- **ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning**  
+  Wenjun Hou, **Kaishuai Xu***, Yi Cheng*, Wenjie Li, Jiang Liu  
   ACL 2023  
   \[[paper](https://arxiv.org/abs/2306.06466)\] \[[code](https://github.com/wjhou/ORGan)\]
 
