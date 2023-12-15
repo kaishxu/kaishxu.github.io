@@ -12,32 +12,35 @@ I am a PhD student at [The Hong Kong Polytechnic University](https://www.polyu.e
 
 I am interested in Natural Language Processing (NLP), especially clinical NLP and conversational AI. Recently, I focus on the following topics:
 - Interpretable medical dialogue systems involving diagnosis, prescriptions, concultations, etc. I am committed to enabling machines to function as trustworthy and reliable clinicians; 
-- Other healthcare applications empowered by Large Language Models (LLMs). My focus lies on their interpretability and safety. 
+- Other healthcare applications empowered by Large Language Models (LLMs). My focus lies on their interpretability and safety;
+- Human-aligned reasoning with LLMs. 
 
 Recent News
 ======
-- Sept 2023: I start working on new ideas.
+**[Sept 2023]** I start working on new ideas.
 
-Selected Papers
+Publications
 ======
-- **RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning**  
+\* denotes co-authors
+
+**RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning**  
   Wenjun Hou, Yi Cheng\*, **Kaishuai Xu\***, Wenjie Li, Jiang Liu  
   EMNLP 2023 Findings  
   \[[paper](https://arxiv.org/abs/2310.13864)\] \[[code](https://github.com/wjhou/Recap)\]
 
-- **Medical Dialogue Generation via Dual Flow Modeling**  
+**Medical Dialogue Generation via Dual Flow Modeling**  
   **Kaishuai Xu**, Wenjun Hou\*, Yi Cheng\*, Jian Wang, Wenjie Li  
   ACL 2023 Findings  
   \[[paper](https://arxiv.org/abs/2305.18109)\] \[[code](https://github.com/kaishxu/DFMed)\]
 
-- **ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning**  
+**ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning**  
   Wenjun Hou, **Kaishuai Xu\***, Yi Cheng\*, Wenjie Li, Jiang Liu  
   ACL 2023  
   \[[paper](https://arxiv.org/abs/2306.06466)\] \[[code](https://github.com/wjhou/ORGan)\]
 
 Activities
 ======
-- As a conference reviewer in EMNLP 2022.
+Reviewer: EMNLP 2022
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
