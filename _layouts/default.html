@@ -7,6 +7,17 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HR3JRMBLYZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-HR3JRMBLYZ');
+    </script>
+    
     {% include head.html %}
     {% include head/custom.html %}
   </head>
@@ -19,7 +30,7 @@ layout: compress
     {{ content }}
 
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OQN1yjd4wsRYTf95Ow-yUUL81sV4TnISMjKniwrRS2I&cl=ffffff&w=a"></script>
-    
+
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
