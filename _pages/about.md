@@ -17,7 +17,7 @@ I am interested in Natural Language Processing (NLP), especially clinical NLP an
 
 Recent News
 ======
-**<font color=red>[Collaboration or Mentorship]</font>** Feel free to reach out to me if you would like to collaborate with me or if you need my mentorship for your research projects. Except the aforementioned research interest, I am also open to exploring unconventional and underexplored research problems!\
+**<font color=red>[Collaboration or Mentorship]</font>** If you're interested in collaborating or seeking mentorship for your research projects, don't hesitate to get in touch with me. Beyond my current research interests, I am also eager to delve into unconventional and lesser-explored areas in research. I welcome the opportunity to explore new challenges and ideas together!\
 **[Dec 2023]** I will attend the EMNLP 2023 conference in Singapore.\
 **[Sept 2023]** I start working on new ideas.
 
