@@ -17,7 +17,7 @@ I am interested in Clinical Natural Language Processing (Clinical NLP) and Conve
 
 Recent News
 ======
-**<font color=red>[Collaboration or Mentorship]</font>** If you're interested in collaborating or seeking mentorship for your research projects, don't hesitate to get in touch with me. Beyond my current research interests, I am also eager to delve into unconventional and lesser-explored areas in research. I welcome the opportunity to explore new challenges and ideas together!\
+**<font color=red>[Collaboration or Mentorship]</font>** If you're interested in collaborating or seeking mentorship for your research projects, don't hesitate to get in touch with me. Beyond my current research interests, I am also eager to delve into unconventional and less-explored areas in research. I welcome the opportunity to explore new challenges and ideas together!\
 **[Dec 2023]** I will attend the EMNLP 2023 conference in Singapore.\
 **[Sept 2023]** I start working on new ideas.
 
@@ -26,17 +26,17 @@ Publications
 \* indicates equal contribution.
 
 **RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning**  
-  Wenjun Hou, Yi Cheng\*, **Kaishuai Xu\***, Wenjie Li, Jiang Liu  
+  [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/)\*, **Kaishuai Xu\***, Wenjie Li, Jiang Liu  
   EMNLP 2023 Findings  
   \[[paper](https://arxiv.org/abs/2310.13864)\] \[[code](https://github.com/wjhou/Recap)\]
 
 **Medical Dialogue Generation via Dual Flow Modeling**  
-  **Kaishuai Xu**, Wenjun Hou\*, Yi Cheng\*, Jian Wang, Wenjie Li  
+  **Kaishuai Xu**, [Wenjun Hou](https://wjhou.github.io/)\*, [Yi Cheng](https://yicheng98.github.io/)\*, [Jian Wang](https://iwangjian.github.io/), Wenjie Li  
   ACL 2023 Findings  
   \[[paper](https://arxiv.org/abs/2305.18109)\] \[[code](https://github.com/kaishxu/DFMed)\]
 
 **ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning**  
-  Wenjun Hou, **Kaishuai Xu\***, Yi Cheng\*, Wenjie Li, Jiang Liu  
+  [Wenjun Hou](https://wjhou.github.io/), **Kaishuai Xu\***, [Yi Cheng](https://yicheng98.github.io/)\*, Wenjie Li, Jiang Liu  
   ACL 2023  
   \[[paper](https://arxiv.org/abs/2306.06466)\] \[[code](https://github.com/wjhou/ORGan)\]
 
