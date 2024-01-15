@@ -25,6 +25,10 @@ Publications
 ======
 \* indicates equal contribution.
 
+**Medical Dialogue Generation via Intuitive-then-Analytical Differential Diagnosis**  
+  **Kaishuai Xu**, [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/), [Jian Wang](https://iwangjian.github.io/), Wenjie Li  
+  \[[paper](https://arxiv.org/abs/2401.06541)\]  
+
 **RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning**  
   [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/)\*, **Kaishuai Xu\***, Wenjie Li, [Jiang Liu](https://faculty.sustech.edu.cn/liuj/)  
   EMNLP 2023 Findings  
