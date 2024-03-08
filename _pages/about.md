@@ -12,7 +12,7 @@ I am a PhD student at Department of Computing, [The Hong Kong Polytechnic Univer
 
 I am interested in Clinical Natural Language Processing (Clinical NLP) and Conversational AI. Recently, I focus on the following topics:
 - **<font color=red>Interpretable medical dialogue systems</font>** involving diagnosis, prescriptions, concultations, etc. I am committed to enabling machines to function as trustworthy and reliable clinicians; 
-- Other healthcare applications empowered by Large Language Models (LLMs). My focus lies on their interpretability and safety;
+- Other applications empowered by Large Language Models (LLMs). My focus lies on their safety and alignment;
 - Human-aligned reasoning with LLMs. 
 
 Recent News
