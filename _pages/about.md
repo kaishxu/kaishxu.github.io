@@ -17,7 +17,7 @@ I am interested in 🤖 Conversational AI and 🩺 Clinical Natural Language Pro
 
 Recent News
 ======
-**<font color=red>[May 2024]</font>** 🔥 I am honored to receive an invitation from [Stanford MedAI](https://stanford-medai.github.io/), and I will be giving a talk about medical dialogue on **May 20th**.  
+**<font color=red>[May 2024]</font>** 🔥 I am honored to receive an invitation from [Stanford MedAI](https://stanford-medai.github.io/), and I will be giving a talk about medical dialogue on **May 20th**. [Link](https://www.youtube.com/watch?v=T4if1iDbxaE).  
 **<font color=red>[May 2024]</font>** 🔥 One paper has been accepted by [ACL 2024](https://2024.aclweb.org/) Findings.  
 **[Dec 2023]** I will attend the EMNLP 2023 conference in Singapore.\
 **[Oct 2023]** Our paper RECAP has been accepted by [EMNLP 2023](https://2023.emnlp.org) Findings.\
