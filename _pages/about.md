@@ -17,11 +17,11 @@ I am interested in Conversational AI and Clinical Natural Language Processing (C
 
 Recent News
 ======
-**<font color=red>[May 2024]</font>** I am honored to receive an invitation from [Stanford MedAI](https://stanford-medai.github.io/), and I will be giving a talk about medical dialogue on **May 20th**.  
-**<font color=red>[May 2024]</font>** One paper has been accepted by [ACL 2024](https://2024.aclweb.org/) Findings.  
+**<font color=red>[May 2024]</font>** 🔥 I am honored to receive an invitation from [Stanford MedAI](https://stanford-medai.github.io/), and I will be giving a talk about medical dialogue on **May 20th**.  
+**<font color=red>[May 2024]</font>** 🔥 One paper has been accepted by [ACL 2024](https://2024.aclweb.org/) Findings.  
 **[Dec 2023]** I will attend the EMNLP 2023 conference in Singapore.\
-**[Oct 2023]** Our paper RECAP has been accepted by EMNLP 2023 Findings.\
-**[May 2023]** Our paper ORGAN and DFMed have been accepted by ACL 2023 Main proceedings and Findings.
+**[Oct 2023]** Our paper RECAP has been accepted by [EMNLP 2023](https://2023.emnlp.org) Findings.\
+**[May 2023]** Our paper ORGAN and DFMed have been accepted by [ACL 2023](https://2023.aclweb.org) Main proceedings and Findings.
 
 Publications
 ======
