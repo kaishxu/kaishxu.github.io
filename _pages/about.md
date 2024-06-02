@@ -76,4 +76,10 @@ Activities
 ======
 Review: EMNLP 2022  
 Talk: [Behave like a Doctor: Clinical Process-Aware Medical Dialogue System](https://www.youtube.com/watch?v=T4if1iDbxaE&t=1123s). [Stanford MedAI Group Exchange Sessions](https://stanford-medai.github.io/). May 20, 2024.
-<iframe width="224" height="126" src="https://www.youtube.com/embed/T4if1iDbxaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="custom-iframe" src="https://www.youtube.com/embed/T4if1iDbxaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>
+.custom-iframe {
+    width: 320px !important;
+    height: 180px !important;
+}
+</style>
