@@ -195,12 +195,6 @@ figure {
     margin-bottom: 1em;
   }
 
-  @media screen and (max-width: 768px) {
-    .fluid-width-video-wrapper {
-        margin-bottom: 2em; /* 增加间距，避免重叠 */
-    }
-  }
-
   img {
     width: 100%;
     border-radius: $border-radius;
