@@ -79,8 +79,8 @@ Talk: [Behave like a Doctor: Clinical Process-Aware Medical Dialogue System](htt
 <iframe class="custom-iframe" src="https://www.youtube.com/embed/T4if1iDbxaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <style>
 .custom-iframe {
-    width: 400px !important;
-    height: 225px !important;
+    width: 320px !important;
+    height: 180px !important;
 }
 </style>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=349&t=tt&d=OQN1yjd4wsRYTf95Ow-yUUL81sV4TnISMjKniwrRS2I&co=5ebcff&cmo=ff0404&cmn=2edc2e'></script>
