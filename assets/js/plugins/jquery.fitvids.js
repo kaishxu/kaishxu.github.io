@@ -73,7 +73,7 @@
           var videoID = 'fitvid' + count;
           $this.attr('id', videoID);
         }
-        $this.wrap('<div class="fluid-width-video-wrapper"></div>').parent('.fluid-width-video-wrapper').css('padding-top', (aspectRatio * 5 / 9 * 100)+'%');
+        $this.wrap('<div class="fluid-width-video-wrapper"></div>').parent('.fluid-width-video-wrapper').css('padding-top', (aspectRatio * 55)+'%');
         $this.removeAttr('height').removeAttr('width');
       });
     });
