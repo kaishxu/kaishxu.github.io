@@ -46,12 +46,14 @@ Publications
 
 🩻 **ICON: Improving Inter-Report Consistency of Radiology Report Generation via Lesion-aware Mix-up Augmentation**  
   [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/)*, **Kaishuai Xu\***, [Yan Hu](https://scholar.google.co.uk/citations?user=rYLooucAAAAJ&hl=en), Wenjie Li, [Jiang Liu](https://faculty.sustech.edu.cn/liuj/)   
+  arXiv: 2402.12844, 2024  
   \[[paper](https://arxiv.org/abs/2402.12844)\] \[[code](https://github.com/wjhou/ICon)\]&nbsp;&nbsp;
 <span id="star-count-icon" class="github-stars"></span>
 <script src="/_pages/script.js"></script>
 
 🩺 **Medical Dialogue Generation via Intuitive-then-Analytical Differential Diagnosis**  
   **Kaishuai Xu**, [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/), [Jian Wang](https://iwangjian.github.io/), Wenjie Li  
+  arXiv: 2401.06541, 2024  
   \[[paper](https://arxiv.org/abs/2401.06541)\]  
 
 🩻 **RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning**  
