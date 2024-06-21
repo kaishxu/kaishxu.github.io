@@ -27,6 +27,16 @@ Publications
 ======
 \* indicates equal contribution. Full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=qfJ9u80AAAAJ).
 
+😇 **Evolving to be Your Soulmate: Personalized Dialogue Agents with Dynamically Adapted Personas**  
+  [Yi Cheng](https://yicheng98.github.io/), Wenge Liu, **Kaishuai Xu**, [Wenjun Hou](https://wjhou.github.io/), Yi Ouyang, [Chak Tou Leong](https://cooperleong00.github.io/), Xian Wu, [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)  
+  arXiv: 2406.13960, 2024  
+  \[[paper](https://arxiv.org/abs/2406.13960)\]
+
+👿 **No Two Devils Alike: Unveiling Distinct Mechanisms of Fine-tuning Attacks**  
+  [Chak Tou Leong](https://cooperleong00.github.io/), [Yi Cheng](https://yicheng98.github.io/), **Kaishuai Xu**, [Jian Wang](https://iwangjian.github.io/), Hanlin Wang, Wenjie Li  
+  arXiv: 2405.16229, 2024  
+  \[[paper](https://arxiv.org/abs/2405.16229)\]
+
 🩺 **Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment**  
   **Kaishuai Xu**, [Yi Cheng](https://yicheng98.github.io/)\*, [Wenjun Hou](https://wjhou.github.io/)\*, [Qiaoyu Tan](https://qiaoyu-tan.github.io/), Wenjie Li  
   ACL 2024 Findings  
