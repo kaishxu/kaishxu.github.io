@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
       'recap': 'wjhou/Recap',
       'icon': 'wjhou/ICon',
       'dfmed': 'kaishxu/DFMed',
+      'emulation': 'kaishxu/Emulation',
       // Add more entries as needed
   };
 

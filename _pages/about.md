@@ -29,7 +29,10 @@ Publications
 
 🩺 **Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment**  
   **Kaishuai Xu**, [Yi Cheng](https://yicheng98.github.io/)\*, [Wenjun Hou](https://wjhou.github.io/)\*, [Qiaoyu Tan](https://qiaoyu-tan.github.io/), Wenjie Li  
-  ACL 2024 Findings
+  ACL 2024 Findings  
+  \[[paper](http://arxiv.org/abs/2406.13934)\] \[[code](https://github.com/kaishxu/Emulation)\]&nbsp;&nbsp;
+<span id="star-count-emulation" class="github-stars"></span>
+<script src="/_pages/script.js"></script>
 
 🩻 **ICON: Improving Inter-Report Consistency of Radiology Report Generation via Lesion-aware Mix-up Augmentation**  
   [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/)*, **Kaishuai Xu\***, [Yan Hu](https://scholar.google.co.uk/citations?user=rYLooucAAAAJ&hl=en), Wenjie Li, [Jiang Liu](https://faculty.sustech.edu.cn/liuj/)   
