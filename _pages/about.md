@@ -30,7 +30,8 @@ Publications
 \* indicates equal contribution. Full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=qfJ9u80AAAAJ).
 
 ♾️ **Subtle Errors Matter: Preference Learning via Error-injected Self-editing**  
-  **Kaishuai Xu**, [Tiezheng Yu](https://scholar.google.com/citations?hl=en&user=JK7nNekAAAAJ), [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/), [Chak Tou Leong](https://cooperleong00.github.io/), [Liangyou Li](https://scholar.google.com/citations?hl=en&user=PPDE-uIAAAAJ), [Xin Jiang](https://scholar.google.com/citations?user=DUfcez0AAAAJ), [Lifeng Shang](https://scholar.google.com/citations?hl=en&user=jMQIjYoAAAAJ), [Qun Liu](https://liuquncn.github.io/index_zh.html), Wenjie Li
+  **Kaishuai Xu**, [Tiezheng Yu](https://scholar.google.com/citations?hl=en&user=JK7nNekAAAAJ), [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/), [Chak Tou Leong](https://cooperleong00.github.io/), [Liangyou Li](https://scholar.google.com/citations?hl=en&user=PPDE-uIAAAAJ), [Xin Jiang](https://scholar.google.com/citations?user=DUfcez0AAAAJ), [Lifeng Shang](https://scholar.google.com/citations?hl=en&user=jMQIjYoAAAAJ), [Qun Liu](https://liuquncn.github.io/index_zh.html), Wenjie Li  
+  \[[paper](https://arxiv.org/abs/2410.06638)\]
 
  **Integrative Decoding: Improve Factuality via Implicit Self-consistency**  
   [Yi Cheng](https://yicheng98.github.io/), Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, [Wenjun Hou](https://wjhou.github.io/), **Kaishuai Xu**, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong  
