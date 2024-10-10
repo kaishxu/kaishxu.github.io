@@ -37,7 +37,7 @@ Publications
   [Yi Cheng](https://yicheng98.github.io/), Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, [Wenjun Hou](https://wjhou.github.io/), **Kaishuai Xu**, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong  
   \[[paper](https://arxiv.org/abs/2410.01556)\]
 
-😇 **Evolving to be Your Soulmate: Personalized Dialogue Agents with Dynamically Adapted Personas**  
+😇 **AutoPal: Autonomous Adaptation to Users for Personal AI Companisonship**  
   [Yi Cheng](https://yicheng98.github.io/), Wenge Liu, **Kaishuai Xu**, [Wenjun Hou](https://wjhou.github.io/), Yi Ouyang, [Chak Tou Leong](https://cooperleong00.github.io/), Xian Wu, [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)  
   arXiv: 2406.13960, 2024  
   \[[paper](https://arxiv.org/abs/2406.13960)\]
