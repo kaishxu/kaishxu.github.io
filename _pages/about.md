@@ -10,10 +10,10 @@ redirect_from:
 
 I am a last-year PhD student in [PolyU NLP Group](https://polyunlp.github.io/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), fortunately advised by Prof. [ Maggie Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).  
 
-I am interested in LLM-based reasoning, 🤖 Conversational AI and 🩺 Clinical Natural Language Processing (Clinical NLP). Recently, I focus on the following topics:
+I am interested in LLM-based reasoning, 🤖 Conversational AI and 🩺 Medical AI. Recently, I focus on the following topics:
 - **Interpretable Medical Dialogue Systems** involving diagnosis, prescriptions, concultations, etc. I am committed to enabling machines to function as reliable and trustworthy clinicians; 
 - **Mathematical Reasoning**; 
-- Other applications empowered by Large Language Models (LLMs). My focus lies on reasoning and alignment.
+- Other applications empowered by Large Language Models (LLMs). My focus lies on reasoning.
 
 Recent News
 ======
