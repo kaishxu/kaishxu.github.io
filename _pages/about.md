@@ -15,7 +15,7 @@ I am interested in 💡 LLM-based reasoning, 🤖 Conversational AI and 🩺 Med
 - **Mathematical Reasoning**; 
 - Other applications empowered by Large Language Models (LLMs). My focus lies on reasoning.
 
-**<font color=red>Available on the job market!</font>** 🔥   
+🔥🔥🔥 **<font color=red>I am available on the job market and actively looking for industry opportunities!</font>**    
 
 Recent News
 ======
