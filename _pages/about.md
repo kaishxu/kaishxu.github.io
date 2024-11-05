@@ -10,15 +10,16 @@ redirect_from:
 
 I am a last-year PhD student in [PolyU NLP Group](https://polyunlp.github.io/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), fortunately advised by Prof. [ Maggie Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).  
 
-I am interested in LLM-based reasoning, 🤖 Conversational AI and 🩺 Medical AI. Recently, I focus on the following topics:
+I am interested in 💡 LLM-based reasoning, 🤖 Conversational AI and 🩺 Medical AI. Recently, I focus on the following topics:
 - **Interpretable Medical Dialogue Systems** involving diagnosis, prescriptions, concultations, etc. I am committed to enabling machines to function as reliable and trustworthy clinicians; 
 - **Mathematical Reasoning**; 
 - Other applications empowered by Large Language Models (LLMs). My focus lies on reasoning.
 
+**<font color=red>Available on the job market!</font>** 🔥   
+
 Recent News
 ======
-**<font color=red>[Available on the job market!]</font>** 🔥   
-**<font color=red>[Sept 2024]</font>** 🔥 Two papers has been accepted by [EMNLP 2024](https://2024.emnlp.org/).  
+**[Sept 2024]** Two papers has been accepted by [EMNLP 2024](https://2024.emnlp.org/).  
 **[May 2024]** I am honored to receive an invitation from [Stanford MedAI](https://stanford-medai.github.io/), and I will be giving a talk about medical dialogue on **May 20th**. [\[Video\]](https://www.youtube.com/watch?v=T4if1iDbxaE).  
 **[May 2024]** One paper has been accepted by [ACL 2024](https://2024.aclweb.org/) Findings.  
 **[Dec 2023]** I will attend the EMNLP 2023 conference in Singapore.\
