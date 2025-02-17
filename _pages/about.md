@@ -11,15 +11,16 @@ redirect_from:
 I am a last-year PhD student in [PolyU NLP Group](https://polyunlp.github.io/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), fortunately advised by Prof. [ Maggie Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).  
 
 I am interested in 💡 LLM-based reasoning, 🤖 Conversational AI and 🩺 Medical AI. Recently, I focus on the following topics:
+- **LLM-based Reasoning**; 
 - **Interpretable Medical Dialogue Systems** involving diagnosis, prescriptions, concultations, etc. I am committed to enabling machines to function as reliable and trustworthy clinicians; 
-- **Mathematical Reasoning**; 
-- Other applications empowered by Large Language Models (LLMs). My focus lies on reasoning.
+- Other applications empowered by Large Language Models (LLMs). 
 
 🔥🔥🔥 **<font color=red>I am available on the job market and actively looking for industry opportunities!</font>**    
 
 Recent News
 ======
-**[Sept 2024]** Two papers has been accepted by [EMNLP 2024](https://2024.emnlp.org/).  
+**[Jan 2025]** One paper has been accepted by [ICLR 2025](https://iclr.cc/).  
+**[Sept 2024]** Two papers have been accepted by [EMNLP 2024](https://2024.emnlp.org/).  
 **[May 2024]** I am honored to receive an invitation from [Stanford MedAI](https://stanford-medai.github.io/), and I will be giving a talk about medical dialogue on **May 20th**. [\[Video\]](https://www.youtube.com/watch?v=T4if1iDbxaE).  
 **[May 2024]** One paper has been accepted by [ACL 2024](https://2024.aclweb.org/) Findings.  
 **[Dec 2023]** I will attend the EMNLP 2023 conference in Singapore.\
@@ -30,13 +31,22 @@ Publications
 ======
 \* indicates equal contribution. Full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=qfJ9u80AAAAJ).
 
+🩻 **Memory-Augmented Multimodal LLMs for Surgical VQA via Self-Contained Inquiry**  
+  [Wenjun Hou](https://wjhou.github.io/), **Kaishuai Xu**, [Yi Cheng](https://yicheng98.github.io/), [Yan Hu](https://scholar.google.co.uk/citations?user=rYLooucAAAAJ&hl=en), Wenjie Li, [Jiang Liu](https://faculty.sustech.edu.cn/liuj/)  
+  arXiv: 2411.10937, 2024  
+  \[[paper](https://arxiv.org/abs/2411.10937)\]
+
 ♾️ **Subtle Errors Matter: Preference Learning via Error-injected Self-editing**  
   **Kaishuai Xu**, [Tiezheng Yu](https://scholar.google.com/citations?hl=en&user=JK7nNekAAAAJ), [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/), [Chak Tou Leong](https://cooperleong00.github.io/), [Liangyou Li](https://scholar.google.com/citations?hl=en&user=PPDE-uIAAAAJ), [Xin Jiang](https://scholar.google.com/citations?user=DUfcez0AAAAJ), [Lifeng Shang](https://scholar.google.com/citations?hl=en&user=jMQIjYoAAAAJ), [Qun Liu](https://liuquncn.github.io/index_zh.html), Wenjie Li  
+  arXiv: 2410.06638, 2024  
   \[[paper](https://arxiv.org/abs/2410.06638)\]
 
  **Integrative Decoding: Improve Factuality via Implicit Self-consistency**  
   [Yi Cheng](https://yicheng98.github.io/), Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, [Wenjun Hou](https://wjhou.github.io/), **Kaishuai Xu**, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong  
-  \[[paper](https://arxiv.org/abs/2410.01556)\]
+  ICLR 2025  
+  \[[paper](https://arxiv.org/abs/2410.01556)\] \[[code](https://github.com/YiCheng98/IntegrativeDecoding)]&nbsp;&nbsp;
+<span id="star-count-IntegrativeDecoding" class="github-stars"></span>
+<script src="/_pages/script.js"></script>
 
 😇 **AutoPal: Autonomous Adaptation to Users for Personal AI Companisonship**  
   [Yi Cheng](https://yicheng98.github.io/), Wenge Liu, **Kaishuai Xu**, [Wenjun Hou](https://wjhou.github.io/), Yi Ouyang, [Chak Tou Leong](https://cooperleong00.github.io/), Xian Wu, [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)  

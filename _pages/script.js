@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
       'icon': 'wjhou/ICon',
       'dfmed': 'kaishxu/DFMed',
       'emulation': 'kaishxu/Emulation',
+      'IntegrativeDecoding': 'YiCheng98/IntegrativeDecoding'
       // Add more entries as needed
   };
 
