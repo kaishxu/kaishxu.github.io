@@ -27,10 +27,8 @@ Recent News
 **[Oct 2023]** Our paper RECAP has been accepted by [EMNLP 2023](https://2023.emnlp.org) Findings.\
 **[May 2023]** Our paper ORGAN and DFMed have been accepted by [ACL 2023](https://2023.aclweb.org) Main proceedings and Findings.
 
-Publications
+Preprint
 ======
-\* indicates equal contribution. Full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=qfJ9u80AAAAJ).
-
 🩻 **Memory-Augmented Multimodal LLMs for Surgical VQA via Self-Contained Inquiry**  
   [Wenjun Hou](https://wjhou.github.io/), **Kaishuai Xu**, [Yi Cheng](https://yicheng98.github.io/), [Yan Hu](https://scholar.google.co.uk/citations?user=rYLooucAAAAJ&hl=en), Wenjie Li, [Jiang Liu](https://faculty.sustech.edu.cn/liuj/)  
   arXiv: 2411.10937, 2024  
@@ -41,13 +39,6 @@ Publications
   arXiv: 2410.06638, 2024  
   \[[paper](https://arxiv.org/abs/2410.06638)\]
 
- **Integrative Decoding: Improve Factuality via Implicit Self-consistency**  
-  [Yi Cheng](https://yicheng98.github.io/), Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, [Wenjun Hou](https://wjhou.github.io/), **Kaishuai Xu**, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong  
-  ICLR 2025  
-  \[[paper](https://arxiv.org/abs/2410.01556)\] \[[code](https://github.com/YiCheng98/IntegrativeDecoding)]&nbsp;&nbsp;
-<span id="star-count-IntegrativeDecoding" class="github-stars"></span>
-<script src="/_pages/script.js"></script>
-
 😇 **AutoPal: Autonomous Adaptation to Users for Personal AI Companisonship**  
   [Yi Cheng](https://yicheng98.github.io/), Wenge Liu, **Kaishuai Xu**, [Wenjun Hou](https://wjhou.github.io/), Yi Ouyang, [Chak Tou Leong](https://cooperleong00.github.io/), Xian Wu, [Yefeng Zheng](https://sites.google.com/site/yefengzheng/)  
   arXiv: 2406.13960, 2024  
@@ -57,6 +48,22 @@ Publications
   [Chak Tou Leong](https://cooperleong00.github.io/), [Yi Cheng](https://yicheng98.github.io/), **Kaishuai Xu**, [Jian Wang](https://iwangjian.github.io/), Hanlin Wang, Wenjie Li  
   arXiv: 2405.16229, 2024  
   \[[paper](https://arxiv.org/abs/2405.16229)\]
+
+🩺 **Medical Dialogue Generation via Intuitive-then-Analytical Differential Diagnosis**  
+  **Kaishuai Xu**, [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/), [Jian Wang](https://iwangjian.github.io/), Wenjie Li  
+  arXiv: 2401.06541, 2024  
+  \[[paper](https://arxiv.org/abs/2401.06541)\]  
+
+Publications
+======
+\* indicates equal contribution. Full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=qfJ9u80AAAAJ).
+
+ **Integrative Decoding: Improve Factuality via Implicit Self-consistency**  
+  [Yi Cheng](https://yicheng98.github.io/), Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, [Wenjun Hou](https://wjhou.github.io/), **Kaishuai Xu**, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong  
+  ICLR 2025  
+  \[[paper](https://arxiv.org/abs/2410.01556)\] \[[code](https://github.com/YiCheng98/IntegrativeDecoding)]&nbsp;&nbsp;
+<span id="star-count-IntegrativeDecoding" class="github-stars"></span>
+<script src="/_pages/script.js"></script>
 
 🎧 **When LLMs meets acoustic landmarks: An efficient approach to integrate speech into large language models for depression detection**
   [Xiangyu Zhang](https://scholar.google.com/citations?hl=en&user=SR2TlvcAAAAJ), Hexin Liu, **Kaishuai Xu**, Qiquan Zhang, Daijiao Liu, Beena Ahmed, [Julien Epps](http://maestro.ee.unsw.edu.au/~julien/)  
@@ -76,11 +83,6 @@ Publications
   \[[paper](https://arxiv.org/abs/2402.12844)\] \[[code](https://github.com/wjhou/ICon)\]&nbsp;&nbsp;
 <span id="star-count-icon" class="github-stars"></span>
 <script src="/_pages/script.js"></script>
-
-🩺 **Medical Dialogue Generation via Intuitive-then-Analytical Differential Diagnosis**  
-  **Kaishuai Xu**, [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/), [Jian Wang](https://iwangjian.github.io/), Wenjie Li  
-  arXiv: 2401.06541, 2024  
-  \[[paper](https://arxiv.org/abs/2401.06541)\]  
 
 🩻 **RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning**  
   [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/)\*, **Kaishuai Xu\***, Wenjie Li, [Jiang Liu](https://faculty.sustech.edu.cn/liuj/)  
