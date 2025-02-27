@@ -30,7 +30,7 @@ Recent News
 Preprint
 ======
 
-👍 **Learning to Align Multi-Faceted Evaluation: A Unified and Robust Framework**
+👍 **Learning to Align Multi-Faceted Evaluation: A Unified and Robust Framework**  
   **Kaishuai Xu**, [Tiezheng Yu](https://scholar.google.com/citations?hl=en&user=JK7nNekAAAAJ), [Wenjun Hou](https://wjhou.github.io/), [Yi Cheng](https://yicheng98.github.io/), [Liangyou Li](https://scholar.google.com/citations?hl=en&user=PPDE-uIAAAAJ), [Xin Jiang](https://scholar.google.com/citations?user=DUfcez0AAAAJ), [Lifeng Shang](https://scholar.google.com/citations?hl=en&user=jMQIjYoAAAAJ), [Qun Liu](https://liuquncn.github.io/index_zh.html), Wenjie Li  
   arXiv: 2502.18874, 2025  
   \[[paper](https://arxiv.org/abs/2502.18874)\]
