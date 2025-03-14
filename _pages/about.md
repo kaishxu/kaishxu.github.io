@@ -31,32 +31,32 @@ Preprint
 ======
 
 👍 **Learning to Align Multi-Faceted Evaluation: A Unified and Robust Framework**  
-  **Kaishuai Xu**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
+  **<u>Kaishuai Xu</u>**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
   arXiv: 2502.18874, 2025  
   \[[paper](https://arxiv.org/abs/2502.18874)\]
 
 🩻 **Memory-Augmented Multimodal LLMs for Surgical VQA via Self-Contained Inquiry**  
-  Wenjun Hou, **Kaishuai Xu**, Yi Cheng, Yan Hu, Wenjie Li, Jiang Liu  
+  Wenjun Hou, **<u>Kaishuai Xu</u>**, Yi Cheng, Yan Hu, Wenjie Li, Jiang Liu  
   arXiv: 2411.10937, 2024  
   \[[paper](https://arxiv.org/abs/2411.10937)\]
 
 ♾️ **Subtle Errors Matter: Preference Learning via Error-injected Self-editing**  
-  **Kaishuai Xu**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Chak Tou Leong, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
+  **<u>Kaishuai Xu</u>**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Chak Tou Leong, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
   arXiv: 2410.06638, 2024  
   \[[paper](https://arxiv.org/abs/2410.06638)\]
 
 😇 **AutoPal: Autonomous Adaptation to Users for Personal AI Companisonship**  
-  Yi Cheng, Wenge Liu, **Kaishuai Xu**, Wenjun Hou, Yi Ouyang, Chak Tou Leong, Xian Wu, Yefeng Zheng  
+  Yi Cheng, Wenge Liu, **<u>Kaishuai Xu</u>**, Wenjun Hou, Yi Ouyang, Chak Tou Leong, Xian Wu, Yefeng Zheng  
   arXiv: 2406.13960, 2024  
   \[[paper](https://arxiv.org/abs/2406.13960)\]
 
 👿 **No Two Devils Alike: Unveiling Distinct Mechanisms of Fine-tuning Attacks**  
-  Chak Tou Leong, Yi Cheng, **Kaishuai Xu**, Jian Wang, Hanlin Wang, Wenjie Li  
+  Chak Tou Leong, Yi Cheng, **<u>Kaishuai Xu</u>**, Jian Wang, Hanlin Wang, Wenjie Li  
   arXiv: 2405.16229, 2024  
   \[[paper](https://arxiv.org/abs/2405.16229)\]
 
 🩺 **Medical Dialogue Generation via Intuitive-then-Analytical Differential Diagnosis**  
-  **Kaishuai Xu**, Wenjun Hou, Yi Cheng, Jian Wang, Wenjie Li  
+  **<u>Kaishuai Xu</u>**, Wenjun Hou, Yi Cheng, Jian Wang, Wenjie Li  
   arXiv: 2401.06541, 2024  
   \[[paper](https://arxiv.org/abs/2401.06541)\]  
 
@@ -65,47 +65,47 @@ Publications
 \* indicates equal contribution. Full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=qfJ9u80AAAAJ).
 
  **Integrative Decoding: Improve Factuality via Implicit Self-consistency**  
-  Yi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, **Kaishuai Xu**, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong  
+  Yi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, **<u>Kaishuai Xu</u>**, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong  
   ICLR 2025  
   \[[paper](https://arxiv.org/abs/2410.01556)\] \[[code](https://github.com/YiCheng98/IntegrativeDecoding)]&nbsp;&nbsp;
 <span id="star-count-IntegrativeDecoding" class="github-stars"></span>
 <script src="/_pages/script.js"></script>
 
 🎧 **When LLMs meets acoustic landmarks: An efficient approach to integrate speech into large language models for depression detection**
-  Xiangyu Zhang, Hexin Liu, **Kaishuai Xu**, Qiquan Zhang, Daijiao Liu, Beena Ahmed, Julien Epps  
+  Xiangyu Zhang, Hexin Liu, **<u>Kaishuai Xu</u>**, Qiquan Zhang, Daijiao Liu, Beena Ahmed, Julien Epps  
   EMNLP 2024  
   \[[paper](https://arxiv.org/abs/2402.13276)\]
 
 🩺 **Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment**  
-  **Kaishuai Xu**, Yi Cheng\*, Wenjun Hou\*, Qiaoyu Tan, Wenjie Li  
+  **<u>Kaishuai Xu</u>**, Yi Cheng\*, Wenjun Hou\*, Qiaoyu Tan, Wenjie Li  
   ACL 2024 Findings  
   \[[paper](http://arxiv.org/abs/2406.13934)\] \[[code](https://github.com/kaishxu/Emulation)\]&nbsp;&nbsp;
 <span id="star-count-emulation" class="github-stars"></span>
 <script src="/_pages/script.js"></script>
 
 🩻 **ICON: Improving Inter-Report Consistency of Radiology Report Generation via Lesion-aware Mix-up Augmentation**  
-  Wenjun Hou, Yi Cheng*, **Kaishuai Xu\***, Yan Hu, Wenjie Li, Jiang Liu   
+  Wenjun Hou, Yi Cheng*, **<u>Kaishuai Xu</u>\***, Yan Hu, Wenjie Li, Jiang Liu   
   EMNLP 2024 Findings  
   \[[paper](https://arxiv.org/abs/2402.12844)\] \[[code](https://github.com/wjhou/ICon)\]&nbsp;&nbsp;
 <span id="star-count-icon" class="github-stars"></span>
 <script src="/_pages/script.js"></script>
 
 🩻 **RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning**  
-  Wenjun Hou, Yi Cheng\*, **Kaishuai Xu\***, Wenjie Li, Jiang Liu  
+  Wenjun Hou, Yi Cheng\*, **<u>Kaishuai Xu</u>\***, Wenjie Li, Jiang Liu  
   EMNLP 2023 Findings  
   \[[paper](https://arxiv.org/abs/2310.13864)\] \[[code](https://github.com/wjhou/Recap)\]&nbsp;&nbsp;
 <span id="star-count-recap" class="github-stars"></span>
 <script src="/_pages/script.js"></script>
 
 🩺 **Medical Dialogue Generation via Dual Flow Modeling**  
-  **Kaishuai Xu**, Wenjun Hou\*, Yi Cheng\*, Jian Wang, Wenjie Li  
+  **<u>Kaishuai Xu</u>**, Wenjun Hou\*, Yi Cheng\*, Jian Wang, Wenjie Li  
   ACL 2023 Findings  
   \[[paper](https://arxiv.org/abs/2305.18109)\] \[[code](https://github.com/kaishxu/DFMed)\]&nbsp;&nbsp;
 <span id="star-count-dfmed" class="github-stars"></span>
 <script src="/_pages/script.js"></script>
 
 🩻 **ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning**  
-  Wenjun Hou, **Kaishuai Xu\***, Yi Cheng\*, Wenjie Li, Jiang Liu  
+  Wenjun Hou, **<u>Kaishuai Xu</u>\***, Yi Cheng\*, Wenjie Li, Jiang Liu  
   ACL 2023  
   \[[paper](https://arxiv.org/abs/2306.06466)\] \[[code](https://github.com/wjhou/ORGan)\]&nbsp;&nbsp;
 <span id="star-count-organ" class="github-stars"></span>
