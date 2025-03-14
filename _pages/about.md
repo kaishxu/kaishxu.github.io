@@ -62,7 +62,7 @@ Preprint
 
 Publications
 ======
-\* indicates equal contribution. Full list can be found in my Google Scholar.
+\* indicates equal contribution. Full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=qfJ9u80AAAAJ).
 
  **Integrative Decoding: Improve Factuality via Implicit Self-consistency**  
   Yi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, **Kaishuai Xu**, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong  
