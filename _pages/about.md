@@ -19,6 +19,7 @@ I am interested in 💡 LLM-based reasoning, 🤖 Conversational AI and 🩺 Med
 
 Recent News
 ======
+**[May 2025]** Three papers have been accepted by [ACL 2025](https://2025.aclweb.org/).  
 **[Jan 2025]** One paper has been accepted by [ICLR 2025](https://iclr.cc/).  
 **[Sept 2024]** Two papers have been accepted by [EMNLP 2024](https://2024.emnlp.org/).  
 **[May 2024]** I am honored to receive an invitation from [Stanford MedAI](https://stanford-medai.github.io/), and I will be giving a talk about medical dialogue on **May 20th**. [\[Video\]](https://www.youtube.com/watch?v=T4if1iDbxaE).  
@@ -29,21 +30,6 @@ Recent News
 
 Preprint
 ======
-
-👍 **Learning to Align Multi-Faceted Evaluation: A Unified and Robust Framework**  
-  **<u>Kaishuai Xu</u>**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
-  arXiv: 2502.18874, 2025  
-  \[[paper](https://arxiv.org/abs/2502.18874)\]
-
-🩻 **Memory-Augmented Multimodal LLMs for Surgical VQA via Self-Contained Inquiry**  
-  Wenjun Hou, **<u>Kaishuai Xu</u>**, Yi Cheng, Yan Hu, Wenjie Li, Jiang Liu  
-  arXiv: 2411.10937, 2024  
-  \[[paper](https://arxiv.org/abs/2411.10937)\]
-
-♾️ **Subtle Errors Matter: Preference Learning via Error-injected Self-editing**  
-  **<u>Kaishuai Xu</u>**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Chak Tou Leong, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
-  arXiv: 2410.06638, 2024  
-  \[[paper](https://arxiv.org/abs/2410.06638)\]
 
 😇 **AutoPal: Autonomous Adaptation to Users for Personal AI Companisonship**  
   Yi Cheng, Wenge Liu, **<u>Kaishuai Xu</u>**, Wenjun Hou, Yi Ouyang, Chak Tou Leong, Xian Wu, Yefeng Zheng  
@@ -63,6 +49,22 @@ Preprint
 Publications
 ======
 \* indicates equal contribution. Full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=qfJ9u80AAAAJ).
+
+
+👨‍⚖️ **Learning to Align Multi-Faceted Evaluation: A Unified and Robust Framework**  
+  **<u>Kaishuai Xu</u>**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
+  ACL 2025 Findings  
+  \[[paper](https://arxiv.org/abs/2502.18874)\]
+
+🩻 **Memory-Augmented Multimodal LLMs for Surgical VQA via Self-Contained Inquiry**  
+  Wenjun Hou, **<u>Kaishuai Xu</u>**, Yi Cheng, Yan Hu, Wenjie Li, Jiang Liu  
+  ACL 2025  
+  \[[paper](https://arxiv.org/abs/2411.10937)\]
+
+🤔 **Subtle Errors Matter: Preference Learning via Error-injected Self-editing**  
+  **<u>Kaishuai Xu</u>**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Chak Tou Leong, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
+  ACL 2025  
+  \[[paper](https://arxiv.org/abs/2410.06638)\]
 
  **Integrative Decoding: Improve Factuality via Implicit Self-consistency**  
   Yi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, **<u>Kaishuai Xu</u>**, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong  
