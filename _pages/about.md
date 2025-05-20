@@ -28,38 +28,18 @@ Recent News
 **[Oct 2023]** Our paper RECAP has been accepted by [EMNLP 2023](https://2023.emnlp.org) Findings.\
 **[May 2023]** Our paper ORGAN and DFMed have been accepted by [ACL 2023](https://2023.aclweb.org) Main proceedings and Findings.
 
-Preprint
-======
-
-😇 **AutoPal: Autonomous Adaptation to Users for Personal AI Companisonship**  
-  Yi Cheng, Wenge Liu, **<u>Kaishuai Xu</u>**, Wenjun Hou, Yi Ouyang, Chak Tou Leong, Xian Wu, Yefeng Zheng  
-  arXiv: 2406.13960, 2024  
-  \[[paper](https://arxiv.org/abs/2406.13960)\]
-
-👿 **No Two Devils Alike: Unveiling Distinct Mechanisms of Fine-tuning Attacks**  
-  Chak Tou Leong, Yi Cheng, **<u>Kaishuai Xu</u>**, Jian Wang, Hanlin Wang, Wenjie Li  
-  arXiv: 2405.16229, 2024  
-  \[[paper](https://arxiv.org/abs/2405.16229)\]
-
-🩺 **Medical Dialogue Generation via Intuitive-then-Analytical Differential Diagnosis**  
-  **<u>Kaishuai Xu</u>**, Wenjun Hou, Yi Cheng, Jian Wang, Wenjie Li  
-  arXiv: 2401.06541, 2024  
-  \[[paper](https://arxiv.org/abs/2401.06541)\]  
-
 Publications
 ======
 \* indicates equal contribution. Full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=qfJ9u80AAAAJ).
 
+🩻 **RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection**  
+  Wenjun Hou, Yi Cheng, **<u>Kaishuai Xu</u>**, Heng Li, Yan Hu, Wenjie Li, Jiang Liu  
+  ACL 2025  
 
 👨‍⚖️ **Learning to Align Multi-Faceted Evaluation: A Unified and Robust Framework**  
   **<u>Kaishuai Xu</u>**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
   ACL 2025 Findings  
   \[[paper](https://arxiv.org/abs/2502.18874)\]
-
-🩻 **Memory-Augmented Multimodal LLMs for Surgical VQA via Self-Contained Inquiry**  
-  Wenjun Hou, **<u>Kaishuai Xu</u>**, Yi Cheng, Yan Hu, Wenjie Li, Jiang Liu  
-  ACL 2025  
-  \[[paper](https://arxiv.org/abs/2411.10937)\]
 
 🤔 **Subtle Errors Matter: Preference Learning via Error-injected Self-editing**  
   **<u>Kaishuai Xu</u>**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Chak Tou Leong, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
@@ -122,6 +102,29 @@ Publications
       height: auto;
   }
 </style>
+
+Preprint
+======
+
+🩻 **Memory-Augmented Multimodal LLMs for Surgical VQA via Self-Contained Inquiry**  
+  Wenjun Hou, **<u>Kaishuai Xu</u>**, Yi Cheng, Yan Hu, Wenjie Li, Jiang Liu  
+  arXiv: 2411.10937, 2024  
+  \[[paper](https://arxiv.org/abs/2411.10937)\]
+
+😇 **AutoPal: Autonomous Adaptation to Users for Personal AI Companisonship**  
+  Yi Cheng, Wenge Liu, **<u>Kaishuai Xu</u>**, Wenjun Hou, Yi Ouyang, Chak Tou Leong, Xian Wu, Yefeng Zheng  
+  arXiv: 2406.13960, 2024  
+  \[[paper](https://arxiv.org/abs/2406.13960)\]
+
+👿 **No Two Devils Alike: Unveiling Distinct Mechanisms of Fine-tuning Attacks**  
+  Chak Tou Leong, Yi Cheng, **<u>Kaishuai Xu</u>**, Jian Wang, Hanlin Wang, Wenjie Li  
+  arXiv: 2405.16229, 2024  
+  \[[paper](https://arxiv.org/abs/2405.16229)\]
+
+🩺 **Medical Dialogue Generation via Intuitive-then-Analytical Differential Diagnosis**  
+  **<u>Kaishuai Xu</u>**, Wenjun Hou, Yi Cheng, Jian Wang, Wenjie Li  
+  arXiv: 2401.06541, 2024  
+  \[[paper](https://arxiv.org/abs/2401.06541)\]  
 
 Activities
 ======
