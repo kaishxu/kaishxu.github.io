@@ -15,7 +15,7 @@ I am interested in 💡 LLM-based reasoning, 🤖 Conversational AI and 🩺 Med
 - **Interpretable Medical Dialogue Systems** involving diagnosis, prescriptions, concultations, etc. I am committed to enabling machines to function as reliable and trustworthy clinicians; 
 - Other applications empowered by Large Language Models (LLMs). 
 
-🔥🔥🔥 **<font color=red>I am available on the job market and actively looking for industry opportunities!</font>**    
+🔥 **<font color=red>I am available on the job market and actively looking for industry opportunities!</font>**    
 
 Recent News
 ======
@@ -53,7 +53,7 @@ Publications
 <span id="star-count-IntegrativeDecoding" class="github-stars"></span>
 <script src="/_pages/script.js"></script>
 
-🎧 **When LLMs meets acoustic landmarks: An efficient approach to integrate speech into large language models for depression detection**
+🎧 **When LLMs meets acoustic landmarks: An efficient approach to integrate speech into large language models for depression detection**  
   Xiangyu Zhang, Hexin Liu, **<u>Kaishuai Xu</u>**, Qiquan Zhang, Daijiao Liu, Beena Ahmed, Julien Epps  
   EMNLP 2024  
   \[[paper](https://arxiv.org/abs/2402.13276)\]
