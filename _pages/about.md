@@ -128,7 +128,7 @@ Preprint
 
 Activities
 ======
-Review: EMNLP 2022  
+Review: EMNLP 2022, ACL 2025  
 Talk: [Behave like a Doctor: Clinical Process-Aware Medical Dialogue System](https://www.youtube.com/watch?v=T4if1iDbxaE&t=1123s). [Stanford MedAI Group Exchange Sessions](https://stanford-medai.github.io/). May 20, 2024.
 <iframe class="custom-iframe" src="https://www.youtube.com/embed/T4if1iDbxaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <style>
