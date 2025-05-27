@@ -41,7 +41,7 @@ Publications
   ACL 2025 Findings  
   \[[paper](https://arxiv.org/abs/2502.18874)\]
 
-🤔 **Subtle Errors Matter: Preference Learning via Error-injected Self-editing**  
+🤔 **Subtle Errors in Reasoning: Preference Learning via Error-injected Self-editing**  
   **<u>Kaishuai Xu</u>**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Chak Tou Leong, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
   ACL 2025  
   \[[paper](https://arxiv.org/abs/2410.06638)\]
