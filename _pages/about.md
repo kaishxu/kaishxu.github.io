@@ -15,7 +15,7 @@ I am interested in 💡 LLM-based reasoning, 🤖 Conversational AI and 🩺 Med
 - **Interpretable Medical Dialogue Systems** involving diagnosis, prescriptions, concultations, etc. I am committed to enabling machines to function as reliable and trustworthy clinicians; 
 - Other applications empowered by Large Language Models (LLMs). 
 
-🔥 **<font color=red>I am available on the job market and actively looking for industry opportunities!</font>**    
+🔥 **I am available on the job market and actively looking for industry opportunities!**    
 
 Recent News
 ======
