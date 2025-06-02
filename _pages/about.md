@@ -39,12 +39,16 @@ Publications
 👨‍⚖️ **Learning to Align Multi-Faceted Evaluation: A Unified and Robust Framework**  
   **<u>Kaishuai Xu</u>**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
   ACL 2025 Findings  
-  \[[paper](https://arxiv.org/abs/2502.18874)\]
+  \[[paper](https://arxiv.org/abs/2502.18874)\] \[[code](https://github.com/kaishxu/ARJudge)\]&nbsp;&nbsp;
+<span id="star-count-arjudge" class="github-stars"></span>
+<script src="/_pages/script.js"></script>
 
 🤔 **Subtle Errors in Reasoning: Preference Learning via Error-injected Self-editing**  
   **<u>Kaishuai Xu</u>**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Chak Tou Leong, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
   ACL 2025  
-  \[[paper](https://arxiv.org/abs/2410.06638)\]
+  \[[paper](https://arxiv.org/abs/2410.06638)\] \[[code](https://github.com/kaishxu/RISE)\]&nbsp;&nbsp;
+<span id="star-count-rise" class="github-stars"></span>
+<script src="/_pages/script.js"></script>
 
  **Integrative Decoding: Improve Factuality via Implicit Self-consistency**  
   Yi Cheng, Xiao Liang, Yeyun Gong, Wen Xiao, Song Wang, Yuji Zhang, Wenjun Hou, **<u>Kaishuai Xu</u>**, Wenge Liu, Wenjie Li, Jian Jiao, Qi Chen, Peng Cheng, Wayne Xiong  
