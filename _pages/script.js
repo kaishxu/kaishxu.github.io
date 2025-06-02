@@ -8,7 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
       'emulation': 'kaishxu/Emulation',
       'IntegrativeDecoding': 'YiCheng98/IntegrativeDecoding',
       'rise': 'kaishxu/RISE',
-      'arjudge': 'kaishxu/ARJudge'
+      'arjudge': 'kaishxu/ARJudge',
+      'radar': 'wjhou/Radar'
       // Add more entries as needed
   };
 

@@ -35,6 +35,9 @@ Publications
 🩻 **RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection**  
   Wenjun Hou, Yi Cheng, **<u>Kaishuai Xu</u>**, Heng Li, Yan Hu, Wenjie Li, Jiang Liu  
   ACL 2025  
+  \[[paper](https://arxiv.org/abs/2505.14318)\] \[[code](https://github.com/wjhou/Radar)\]&nbsp;&nbsp;
+<span id="star-count-radar" class="github-stars"></span>
+<script src="/_pages/script.js"></script>
 
 👨‍⚖️ **Learning to Align Multi-Faceted Evaluation: A Unified and Robust Framework**  
   **<u>Kaishuai Xu</u>**, Tiezheng Yu, Wenjun Hou, Yi Cheng, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li  
