@@ -32,6 +32,11 @@ Publications
 ======
 \* indicates equal contribution. Full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=qfJ9u80AAAAJ).
 
+🩻 **Large language models for disease diagnosis: a scoping review**  
+  Shuang Zhou, Zidu Xu, Mian Zhang, Chunpu Xu, Yawen Guo, Zaifu Zhan, Yi Fang, Sirui Ding, Jiashuo Wang, **<u>Kaishuai Xu</u>**, Liqiao Xia, Jeremy Yeung, Daochen Zha, Dongming Cai, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
+  npj Artificial Intelligence volume 1, Article number: 9 (2025)  
+  \[[paper](https://www.nature.com/articles/s44387-025-00011-z)\]  
+
 🩻 **RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection**  
   Wenjun Hou, Yi Cheng, **<u>Kaishuai Xu</u>**, Heng Li, Yan Hu, Wenjie Li, Jiang Liu  
   ACL 2025  
