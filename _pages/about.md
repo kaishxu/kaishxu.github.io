@@ -19,6 +19,7 @@ I am interested in 💡 LLM-based reasoning, 🤖 Conversational AI and 🩺 Med
 
 Recent News
 ======
+**[Aug 2025]** One paper has been accepted by [EMNLP 2025](https://2025.emnlp.org/).  
 **[May 2025]** Three papers have been accepted by [ACL 2025](https://2025.aclweb.org/).  
 **[Jan 2025]** One paper has been accepted by [ICLR 2025](https://iclr.cc/).  
 **[Sept 2024]** Two papers have been accepted by [EMNLP 2024](https://2024.emnlp.org/).  
