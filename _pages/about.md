@@ -10,10 +10,7 @@ redirect_from:
 
 I am a last-year PhD student in [PolyU NLP Group](https://polyunlp.github.io/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), fortunately advised by Prof. [ Maggie Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/).  
 
-I am interested in 💡 LLM-based reasoning, 🤖 Conversational AI and 🩺 Medical AI. Recently, I focus on the following topics:
-- **LLM-based Reasoning**; 
-- **Interpretable Medical Dialogue Systems** involving diagnosis, prescriptions, concultations, etc. I am committed to enabling machines to function as reliable and trustworthy clinicians; 
-- Other applications empowered by Large Language Models (LLMs). 
+My research interests focus on 💡 LLM-based reasoning ([ACL'25](https://arxiv.org/abs/2410.06638)) and 🩺 Medical AI ([ACL'23 Findings](https://arxiv.org/abs/2305.18109), [ACL'24 Findings](https://arxiv.org/abs/2406.13934)).
 
 🔥 **I am available on the job market and actively looking for industry opportunities!**    
 
@@ -32,6 +29,13 @@ Recent News
 Publications
 ======
 \* indicates equal contribution. Full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=qfJ9u80AAAAJ).
+
+🤔 **RAR^2: Retrieval-Augmented Medical Reasoning via Thought-Driven Retrieval**  
+  **<u>Kaishuai Xu</u>**, Wenjun Hou, Yi Cheng, Wenjie Li  
+  EMNLP 2025 Findings  
+  \[[paper]()\] \[[code]()\]&nbsp;&nbsp;
+<span id="star-count-rise" class="github-stars"></span>
+<script src="/_pages/script.js"></script>
 
 🩻 **Large language models for disease diagnosis: a scoping review**  
   Shuang Zhou, Zidu Xu, Mian Zhang, Chunpu Xu, Yawen Guo, Zaifu Zhan, Yi Fang, Sirui Ding, Jiashuo Wang, **<u>Kaishuai Xu</u>**, Liqiao Xia, Jeremy Yeung, Daochen Zha, Dongming Cai, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
@@ -141,7 +145,7 @@ Preprint
 
 Activities
 ======
-Review: EMNLP 2022, ACL 2025  
+Review: EMNLP 2022, ACL 2025, EMNLP 2025    
 Talk: [Behave like a Doctor: Clinical Process-Aware Medical Dialogue System](https://www.youtube.com/watch?v=T4if1iDbxaE&t=1123s). [Stanford MedAI Group Exchange Sessions](https://stanford-medai.github.io/). May 20, 2024.
 <iframe class="custom-iframe" src="https://www.youtube.com/embed/T4if1iDbxaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <style>
