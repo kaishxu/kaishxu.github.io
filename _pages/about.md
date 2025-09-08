@@ -33,9 +33,7 @@ Publications
 🤔 **RAR^2: Retrieval-Augmented Medical Reasoning via Thought-Driven Retrieval**  
   **<u>Kaishuai Xu</u>**, Wenjun Hou, Yi Cheng, Wenjie Li  
   EMNLP 2025 Findings  
-  \[[paper]()\] \[[code]()\]&nbsp;&nbsp;
-<span id="star-count-rise" class="github-stars"></span>
-<script src="/_pages/script.js"></script>
+  \[[paper]()\] \[[code]()\]
 
 🩻 **Large language models for disease diagnosis: a scoping review**  
   Shuang Zhou, Zidu Xu, Mian Zhang, Chunpu Xu, Yawen Guo, Zaifu Zhan, Yi Fang, Sirui Ding, Jiashuo Wang, **<u>Kaishuai Xu</u>**, Liqiao Xia, Jeremy Yeung, Daochen Zha, Dongming Cai, Genevieve B. Melton, Mingquan Lin, Rui Zhang  
