@@ -22,10 +22,10 @@ twitter: xukaish  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a last-year PhD student in <a href="https://polyunlp.github.io/" target="_blank">PolyU NLP Group</a> at The Hong Kong Polytechnic University, fortunately advised by Prof. <a href="https://www4.comp.polyu.edu.hk/~cswjli/" target="_blank">Maggie, Wenjie Li</a>.
+    I am a last-year PhD student in <a href="https://polyunlp.github.io/" target="_blank">PolyU NLP Group</a> at <a href="https://www.polyu.edu.hk/" target="_blank">The Hong Kong Polytechnic University</a>, fortunately advised by Prof. <a href="https://www4.comp.polyu.edu.hk/~cswjli/" target="_blank">Maggie, Wenjie Li</a>.
   </p>
   <p>
-    Before that, I received my MSc and BMgt degrees from Huazhong University of Science and Technology.
+    Before that, I received my MSc and BMgt degrees from <a href="https://english.hust.edu.cn/" target="_blank">Huazhong University of Science and Technology</a>.
   </p>
   <p>
     Recently, I am interested in <strong>LLM-based reasoning</strong> and <strong>Medical AI</strong>. The specific topics include:
