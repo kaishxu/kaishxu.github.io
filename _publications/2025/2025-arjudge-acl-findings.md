@@ -2,7 +2,7 @@
 title:          "Learning to Align Multi-Faceted Evaluation: A Unified and Robust Framework"
 date:           2025-07-01 00:00:00 +0800
 selected:       false
-pub:            "Findings of the Association for Computational Linguistics: ACL 2025"
+pub:            "ACL 2025 Findings"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Findings</span>'
 pub_date:       ""
 abstract: >-

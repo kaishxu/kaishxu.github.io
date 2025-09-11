@@ -2,7 +2,7 @@
 title:          "ICON: Improving Inter-Report Consistency in Radiology Report Generation via Lesion-aware Mixup Augmentation"
 date:           2024-11-01 00:00:00 +0800
 selected:       false
-pub:            "Findings of the Association for Computational Linguistics: EMNLP 2024"
+pub:            "EMNLP 2024 Findings"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Findings</span>'
 pub_date:       ""
 abstract: >-

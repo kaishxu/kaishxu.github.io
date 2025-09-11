@@ -2,7 +2,7 @@
 title:          "RECAP: Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning"
 date:           2023-12-01 00:00:00 +0800
 selected:       false
-pub:            "Findings of the Association for Computational Linguistics: EMNLP 2023"
+pub:            "EMNLP 2023 Findings"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Findings</span>'
 pub_date:       ""
 abstract: >-

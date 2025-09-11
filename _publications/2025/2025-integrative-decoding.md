@@ -2,7 +2,7 @@
 title:          "Integrative Decoding: Improving Factuality via Implicit Self-consistency"
 date:           2025-04-01 00:00:00 +0800
 selected:       false
-pub:            "The Thirteenth International Conference on Learning Representations (ICLR 2025)"
+pub:            "ICLR 2025"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">Poster</span>'
 pub_date:       ""
 abstract: >-

@@ -2,7 +2,7 @@
 title:          "Medical Dialogue Generation via Dual Flow Modeling"
 date:           2023-07-01 00:00:00 +0800
 selected:       true
-pub:            "Findings of the Association for Computational Linguistics: ACL 2023"
+pub:            "ACL 2023 Findings"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Findings</span>'
 pub_date:       ""
 # semantic_scholar_id: 11ac0b5634a282f1a0da204b98e7473d8b480dfb  # use this to retrieve citation count
