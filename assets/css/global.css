@@ -1,0 +1,152 @@
+@charset "utf-8";
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    padding-top: 5.0rem;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    font-weight: 700;
+}
+
+.card {
+    border-radius: 0.8rem!important;
+}
+
+.card-img-overlay {
+    border-radius: 0.8rem!important;
+}
+
+.rounded-xl {
+    border-radius: 0.8rem!important;
+}
+
+.rounded-xl-bottom {
+    border-bottom-right-radius: 0.8rem !important;
+    border-bottom-left-radius: 0.8rem !important;
+}
+
+.rounded-xl-top {
+    border-top-left-radius: 0.8rem !important;
+    border-top-right-radius: 0.8rem !important;
+}
+
+
+.text-profile-position {
+    font-weight: 400;
+}
+
+.text-profile-bio {
+    /* font-family: "Raleway"; */
+    font-weight: 400;
+}
+
+.navbar {
+    opacity: 0.95;
+}
+
+/* Make navbar_name extra bold */
+.navbar-brand strong.blinking-cursor {
+    font-weight: 800; /* 最粗的字体权重 */
+}
+
+/* Original brand colors for social media icons */
+.fas.fa-at {
+    color: #c5221f !important; /* Email red */
+}
+
+.fab.fa-github {
+    color: #1f2329 !important; /* GitHub black */
+}
+
+.fab.fa-x-twitter {
+    color: #0f1418 !important; /* X (Twitter) black */
+}
+
+.fab.fa-google-scholar {
+    color: #4285f4 !important; /* Google Scholar blue */
+}
+
+/* Optional: Add hover effects */
+.fas.fa-at:hover {
+    color: #ea4236 !important; /* Email red */
+}
+
+.fab.fa-github:hover {
+    color: #333333 !important; /* Slightly lighter on hover */
+}
+
+.fab.fa-x-twitter:hover {
+    color: #333333 !important; /* Slightly lighter on hover */
+}
+
+.fab.fa-google-scholar:hover {
+    color: #1a73e8 !important; /* Darker blue on hover */
+}
+
+.inline-badge {
+    height: 16px;
+    vertical-align: -10%;
+    margin-right: 2px;
+    line-break: unset;
+}
+
+.no-break {
+    white-space: nowrap;
+}
+
+.cover-image {
+    width: 180px;
+    max-height: 120px;
+}
+
+.abstract-body {
+    min-height: 100px;
+}
+
+img.lazy {
+    background-image: url('images/loading.gif');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 50px 50px;
+    min-height: 80px;
+}
+
+div.lazy {
+    background-image: url('images/loading.gif');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 50px 50px;
+    min-height: 80px;
+}
+
+.badge-publication {
+    font-size: 100%;
+}
+
+.email-text {
+    font-family: Courier, monospace;
+}
+
+/* Blinking cursor animation for navbar_name */
+.blinking-cursor::after {
+    content: '丨';
+    color: #007bff;
+    font-weight: 800;
+    animation: blink 1s infinite;
+    margin-left: -9px;
+    font-size: 1.1em; /* 增大字体大小 */
+    line-height: 0; /* 控制行高 */
+    transform: scaleY(1.2); /* 垂直拉伸，让光标更长 */
+    display: inline-block; /* 允许transform生效 */
+}
+
+@keyframes blink {
+    0%, 50% {
+        opacity: 1;
+    }
+    51%, 100% {
+        opacity: 0;
+    }
+}

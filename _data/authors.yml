@@ -1,18 +1,42 @@
-# Authors
+"Kaishuai Xu":
+  bold: true
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+"Wenjie Li":
+  url: https://www4.comp.polyu.edu.hk/~cswjli/
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+"Wenjun Hou":
+  url: https://wjhou.github.io/
+
+"Yi Cheng":
+  url: https://yicheng98.github.io/
+
+"Jiang Liu":
+  url: https://www.sustech.edu.cn/en/faculties/liujiang.html
+
+"Jian Wang":
+  url: https://iwangjian.github.io/
+
+"Qiaoyu Tan":
+  url: https://qiaoyu-tan.github.io/
+
+"Xiangyu Zhang":
+  url: https://sites.google.com/view/xiangyu-zhang/home
+
+"Julien Epps":
+  url: http://maestro.ee.unsw.edu.au/~julien/
+
+"Chak Tou Leong":
+  url: https://cooperleong00.github.io/
+
+"Tiezheng Yu":
+  url: https://scholar.google.com.hk/citations?user=JK7nNekAAAAJ
+
+"Yefeng Zheng":
+  url: https://en.westlake.edu.cn/faculty/yefeng-zheng.html
+
+"Qun Liu":
+  url: https://liuquncn.github.io/index_en.html
+
+# "Charles Green (MIT)":
+#   name: Charles Green
+#   url: https://www.google.com/?q=Charles+Green+MIT
