@@ -14,4 +14,5 @@ authors:
   - Yi Cheng*
   - Wenjie Li
 links:
+  Paper: https://arxiv.org/abs/2509.22713
 ---
