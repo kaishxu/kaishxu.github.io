@@ -43,6 +43,10 @@ h1, h2, h3, h4, h5, h6,
     font-size: 1.125rem;
 }
 
+.publication-item .small {
+    font-size: 0.9375rem;
+}
+
 .navbar {
     opacity: 0.95;
 }
