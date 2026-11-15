@@ -1,6 +1,38 @@
 <nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top mb-5 shadow-sm">
     <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-lg{% endif %}">
+        {% if page.url == "/" or page.navbar_title == "Home" %}
+        <div class="navbar-brand navbar-social d-flex align-items-center">
+            <a class="no-break" href="mailto:{{ site.data.profile.email | encode_email }}" aria-label="Email">
+                <i class="fas fa-at"></i></a>
+
+            {% if site.data.profile.gscholar %}
+            {%- if site.data.profile.gscholar contains 'scholar.google' -%}
+            {%- assign gscholar_url = site.data.profile.gscholar -%}
+            {%- else -%}
+            {%- assign gscholar_url = 'https://scholar.google.com/citations?user=' | append: site.data.profile.gscholar -%}
+            {%- endif -%}
+            <a class="no-break" target="_blank" href="{{ gscholar_url }}" aria-label="Google Scholar">
+                <i class="fab fa-google-scholar"></i></a>
+            {% endif %}
+
+            {% if site.data.profile.github %}
+            <a class="no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}" aria-label="GitHub">
+                <i class="fab fa-github"></i></a>
+            {% endif %}
+
+            {% if site.data.profile.twitter %}
+            <a class="no-break" target="_blank" href="https://x.com/{{ site.data.profile.twitter }}" aria-label="X">
+                <i class="fab fa-x-twitter"></i></a>
+            {% endif %}
+
+            {% if site.data.profile.cv_link %}
+            <a class="no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}" aria-label="CV">
+                <i class="fas fa-file-alt"></i></a>
+            {% endif %}
+        </div>
+        {% else %}
         <a class="navbar-brand" href="{{ '/' | relative_url }}"><strong class="blinking-cursor">{{site.data.profile.navbar_name}}</strong></a>
+        {% endif %}
         <button class="navbar-toggler" style="font-size: 1em; padding: 0.5em;" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-map"></i> Menu
         </button>

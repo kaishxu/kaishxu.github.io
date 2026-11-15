@@ -56,6 +56,19 @@ h1, h2, h3, h4, h5, h6,
     font-weight: 800; /* 最粗的字体权重 */
 }
 
+.navbar-social {
+    font-size: 1.15rem;
+    line-height: 1;
+}
+
+.navbar-social a {
+    margin-right: 0.9rem;
+}
+
+.navbar-social a:last-child {
+    margin-right: 0;
+}
+
 /* Original brand colors for social media icons */
 .fas.fa-at {
     color: #c5221f !important; /* Email red */
