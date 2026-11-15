@@ -28,8 +28,8 @@ short_bio: >-
     I am working on <strong>Medical AI</strong> and <strong>Agentic Reasoning</strong>. Especially, I focus on the following directions:
   </p>
   <ul>
-    <li><strong>Medical AI</strong>: Focusing on clinician-like medical dialogue systems with structured clinical communication, comprehensive differential diagnosis, and prototypical clinical reasoning (DFMed@ACL'23 and Emulation@ACL'24 Findings), together with retrieval-augmented medical reasoning (RAR<sup>2</sup>@EMNLP'25 Findings).</li>
-    <li><strong>Agentic Reasoning</strong>: Focusing on reliable and efficient reasoning for LLM agents, including subtle-error-aware preference learning (RISE@ACL'25), robust multi-faceted evaluation (ARJudge@ACL'25 Findings), and test-time scaling (LIMOPro@NeurIPS'25), as well as GUI grounding for computer-use agents (PreView@arXiv).</li>
+    <li><strong>Medical AI</strong>: Focusing on clinician-like medical dialogue systems (<a href="https://aclanthology.org/2023.findings-acl.423/" target="_blank">DFMed@ACL'23</a>, <a href="https://aclanthology.org/2024.findings-acl.406/" target="_blank">Emulation@ACL'24 Findings</a>, and <a href="https://aclanthology.org/2025.findings-emnlp.1110/" target="_blank">RAR<sup>2</sup>@EMNLP'25 Findings</a>).</li>
+    <li><strong>Agentic Reasoning</strong>: Focusing on reliable and efficient reasoning for LLM agents (<a href="https://aclanthology.org/2025.acl-long.1506/" target="_blank">RISE@ACL'25</a>, <a href="https://aclanthology.org/2025.findings-acl.494/" target="_blank">ARJudge@ACL'25 Findings</a>, <a href="https://arxiv.org/abs/2505.19187" target="_blank">LIMOPro@NeurIPS'25</a>, and <a href="https://arxiv.org/abs/2610.33645" target="_blank">PreView@arXiv</a>).</li>
   </ul>
   <p>
     🎙️🎙️ An invited talk I gave at <a href="https://stanford-medai.github.io/" target="_blank">Stanford MedAI</a> is available on <a href="https://www.youtube.com/watch?v=T4if1iDbxaE" target="_blank">Youtube</a>.
