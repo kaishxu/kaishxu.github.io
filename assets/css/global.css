@@ -63,6 +63,7 @@ h1, h2, h3, h4, h5, h6,
 .navbar-social {
     font-size: 1.15rem;
     line-height: 1;
+    margin-left: 0.25rem;
 }
 
 .navbar-social a {
