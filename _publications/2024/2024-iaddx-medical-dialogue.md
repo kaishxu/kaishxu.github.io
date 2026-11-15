@@ -1,7 +1,7 @@
 ---
 title:          "Medical Dialogue Generation via Intuitive-then-Analytical Differential Diagnosis"
 date:           2024-01-12 00:00:00 +0800
-selected:       true
+selected:       false
 pub:            "arXiv preprint"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-secondary">Preprint</span>'
 pub_date:       "2024"
