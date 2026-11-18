@@ -13,7 +13,7 @@
         light: 'fa-sun'
     };
     var NAMES = {
-        auto: 'auto (follows system)',
+        auto: 'auto',
         dark: 'dark',
         light: 'light'
     };
