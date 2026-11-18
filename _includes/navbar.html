@@ -37,9 +37,28 @@
             <i class="fas fa-map"></i> Menu
         </button>
 
-        <button type="button" class="navbar-theme-toggle" data-theme-toggle aria-label="Theme: auto (follows system). Click for dark." title="Theme: auto (follows system). Click for dark.">
-            <i class="fas fa-circle-half-stroke" aria-hidden="true"></i>
-        </button>
+        <div class="dropdown navbar-theme-dropdown">
+            <button type="button" class="navbar-theme-toggle dropdown-toggle" id="theme-toggle" data-theme-toggle aria-haspopup="true" aria-expanded="false" aria-label="Theme: auto (follows system)" title="Theme">
+                <i class="fas fa-circle-half-stroke" aria-hidden="true"></i>
+            </button>
+            <div class="dropdown-menu dropdown-menu-right theme-menu" aria-labelledby="theme-toggle">
+                <a class="dropdown-item" href="#" role="menuitemradio" aria-checked="false" data-theme-choice="auto">
+                    <i class="fas fa-circle-half-stroke theme-item-icon" aria-hidden="true"></i>
+                    <span>Auto (system)</span>
+                    <i class="fas fa-check theme-check" aria-hidden="true"></i>
+                </a>
+                <a class="dropdown-item" href="#" role="menuitemradio" aria-checked="false" data-theme-choice="light">
+                    <i class="fas fa-sun theme-item-icon" aria-hidden="true"></i>
+                    <span>Light</span>
+                    <i class="fas fa-check theme-check" aria-hidden="true"></i>
+                </a>
+                <a class="dropdown-item" href="#" role="menuitemradio" aria-checked="false" data-theme-choice="dark">
+                    <i class="fas fa-moon theme-item-icon" aria-hidden="true"></i>
+                    <span>Dark</span>
+                    <i class="fas fa-check theme-check" aria-hidden="true"></i>
+                </a>
+            </div>
+        </div>
 
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">

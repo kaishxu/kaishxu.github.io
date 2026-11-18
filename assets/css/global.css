@@ -174,18 +174,26 @@ div.lazy {
     }
 }
 
-/* ===== Theme toggle button (top-right) ===== */
+/* ===== Theme menu (top-right) ===== */
+.navbar-theme-dropdown {
+    margin-left: 0.5rem;
+}
+
 .navbar-theme-toggle {
     background: transparent;
     border: 0;
     padding: 0.35rem 0.55rem;
-    margin-left: 0.5rem;
     border-radius: 0.5rem;
     color: #4b5158;
     font-size: 1.15rem;
     line-height: 1;
     cursor: pointer;
     transition: color .15s ease, background-color .15s ease;
+}
+
+/* Icon only: no caret */
+.navbar-theme-toggle::after {
+    display: none;
 }
 
 .navbar-theme-toggle:hover,
@@ -200,7 +208,7 @@ div.lazy {
 }
 
 @media (min-width: 576px) {
-    .navbar-theme-toggle {
+    .navbar-theme-dropdown {
         order: 3;
     }
 }
@@ -209,6 +217,64 @@ div.lazy {
     .navbar-toggler {
         margin-left: auto;
     }
+}
+
+.navbar-theme-dropdown {
+    position: relative;
+}
+
+.theme-menu {
+    z-index: 1031;
+    min-width: 12rem;
+    padding: .35rem 0;
+    border-radius: .6rem;
+    border-color: rgba(0, 0, 0, .08);
+    box-shadow: 0 .35rem 1rem rgba(0, 0, 0, .12);
+}
+
+.theme-menu .dropdown-item {
+    display: flex;
+    align-items: center;
+    gap: .55rem;
+    padding: .45rem .9rem;
+    font-size: .95rem;
+}
+
+.theme-menu .dropdown-item:active,
+.theme-menu .dropdown-item:focus {
+    color: inherit;
+}
+
+.theme-item-icon {
+    width: 1.3rem;
+    font-size: 1.15rem;
+    text-align: center;
+    opacity: .9;
+}
+
+/* A little colour helps tell the sun apart from a gear at small sizes. */
+.dropdown-item[data-theme-choice="light"] .theme-item-icon {
+    color: #e8a33d;
+}
+
+html[data-theme="dark"] .dropdown-item[data-theme-choice="light"] .theme-item-icon {
+    color: #f2be63;
+}
+
+.theme-check {
+    margin-left: auto;
+    font-size: .8rem;
+    color: #0d6efd;
+    visibility: hidden;
+}
+
+.theme-menu .dropdown-item.active {
+    background-color: rgba(0, 0, 0, .05);
+    color: inherit;
+}
+
+.theme-menu .dropdown-item.active .theme-check {
+    visibility: visible;
 }
 
 /* ===== Dark theme ===== */
@@ -313,8 +379,38 @@ html[data-theme="dark"] .fab.fa-x-twitter:hover {
     color: #ffffff !important;
 }
 
+/* In light mode the sun icon reads better with a warm tint. */
+html[data-theme-mode="light"] .navbar-theme-toggle i {
+    color: #d98f2b;
+}
+
 html[data-theme="dark"] .navbar-theme-toggle {
     color: #cbd3de;
+}
+
+html[data-theme="dark"] .theme-menu {
+    background-color: #1b1f26;
+    border-color: #2b313b;
+    box-shadow: 0 .35rem 1rem rgba(0, 0, 0, .55);
+}
+
+html[data-theme="dark"] .theme-menu .dropdown-item {
+    color: #dfe3e9;
+}
+
+html[data-theme="dark"] .theme-menu .dropdown-item:hover,
+html[data-theme="dark"] .theme-menu .dropdown-item:focus {
+    background-color: #262b33;
+    color: #ffffff;
+}
+
+html[data-theme="dark"] .theme-menu .dropdown-item.active {
+    background-color: #262b33;
+    color: #ffffff;
+}
+
+html[data-theme="dark"] .theme-check {
+    color: #78a9ff;
 }
 
 /* Logos that are dark artwork on transparency need a light plate to stay legible. */
