@@ -225,8 +225,8 @@ div.lazy {
 
 .theme-menu {
     z-index: 1031;
-    min-width: 12rem;
-    padding: .35rem 0;
+    min-width: 9rem;
+    padding: .3rem 0;
     border-radius: .6rem;
     border-color: rgba(0, 0, 0, .08);
     box-shadow: 0 .35rem 1rem rgba(0, 0, 0, .12);
@@ -235,8 +235,8 @@ div.lazy {
 .theme-menu .dropdown-item {
     display: flex;
     align-items: center;
-    gap: .55rem;
-    padding: .45rem .9rem;
+    gap: .5rem;
+    padding: .45rem .75rem;
     font-size: .95rem;
 }
 
@@ -246,7 +246,7 @@ div.lazy {
 }
 
 .theme-item-icon {
-    width: 1.3rem;
+    width: 1.1rem;
     font-size: 1.15rem;
     text-align: center;
     opacity: .9;
