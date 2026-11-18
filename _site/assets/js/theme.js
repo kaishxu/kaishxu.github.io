@@ -1,52 +1,90 @@
-// Light / dark theme switch for the navbar toggle button.
-// The stored preference is applied before first paint by an inline script in the layouts.
+// Three-state theme switch: auto (follows the system) -> dark -> light -> auto.
+// The stored mode is applied before first paint by an inline script in the layouts.
 (function () {
     var root = document.documentElement;
     var buttons = document.querySelectorAll('[data-theme-toggle]');
+    var media = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
 
-    function currentTheme() {
-        return root.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+    var MODES = ['auto', 'dark', 'light'];
+    var ICONS = {
+        auto: 'fa-circle-half-stroke',
+        dark: 'fa-moon',
+        light: 'fa-sun'
+    };
+    var NAMES = {
+        auto: 'auto (follows system)',
+        dark: 'dark',
+        light: 'light'
+    };
+
+    function currentMode() {
+        var mode = root.getAttribute('data-theme-mode');
+        return MODES.indexOf(mode) >= 0 ? mode : 'auto';
     }
 
-    function applyTheme(theme) {
-        var isDark = theme === 'dark';
+    function prefersDark() {
+        return !!(media && media.matches);
+    }
 
-        if (isDark) {
+    function isDark(mode) {
+        return mode === 'dark' || (mode === 'auto' && prefersDark());
+    }
+
+    function render() {
+        var mode = currentMode();
+        var dark = isDark(mode);
+        var next = MODES[(MODES.indexOf(mode) + 1) % MODES.length];
+        var label = 'Theme: ' + NAMES[mode] + '. Click for ' + NAMES[next] + '.';
+
+        root.setAttribute('data-theme-mode', mode);
+
+        if (dark) {
             root.setAttribute('data-theme', 'dark');
         } else {
             root.removeAttribute('data-theme');
         }
 
-        var iconClass = isDark ? 'fa-sun' : 'fa-moon';
-        var label = isDark ? 'Switch to light mode' : 'Switch to dark mode';
-
         buttons.forEach(function (button) {
             var icon = button.querySelector('i');
             if (icon) {
-                icon.classList.remove('fa-sun', 'fa-moon');
-                icon.classList.add(iconClass);
+                icon.classList.remove('fa-circle-half-stroke', 'fa-moon', 'fa-sun');
+                icon.classList.add(ICONS[mode]);
             }
             button.setAttribute('aria-label', label);
             button.setAttribute('title', label);
-            button.setAttribute('aria-pressed', isDark ? 'true' : 'false');
         });
     }
 
-    function storeTheme(theme) {
+    function setMode(mode) {
+        root.setAttribute('data-theme-mode', mode);
         try {
-            localStorage.setItem('theme', theme);
+            localStorage.setItem('theme', mode);
         } catch (e) {
             /* private mode / storage disabled */
         }
+        render();
     }
 
-    applyTheme(currentTheme());
+    render();
 
     buttons.forEach(function (button) {
         button.addEventListener('click', function () {
-            var next = currentTheme() === 'dark' ? 'light' : 'dark';
-            applyTheme(next);
-            storeTheme(next);
+            var mode = currentMode();
+            setMode(MODES[(MODES.indexOf(mode) + 1) % MODES.length]);
         });
     });
+
+    // Keep "auto" in sync when the system switches between light and dark.
+    if (media) {
+        var onSystemChange = function () {
+            if (currentMode() === 'auto') {
+                render();
+            }
+        };
+        if (media.addEventListener) {
+            media.addEventListener('change', onSystemChange);
+        } else if (media.addListener) {
+            media.addListener(onSystemChange);
+        }
+    }
 })();
