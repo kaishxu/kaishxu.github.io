@@ -419,13 +419,9 @@ html[data-theme="dark"] .theme-check {
     color: #78a9ff;
 }
 
-/* Logos that are dark artwork on transparency need a light plate to stay legible. */
-html[data-theme="dark"] img.inline-badge[src$="nips-logo.svg"],
-html[data-theme="dark"] img.inline-badge[src$="nature_logo.png"] {
-    background-color: #edf0f5;
-    border-radius: 3px;
-    padding: 1px 3px;
-    box-sizing: content-box;
+/* The NeurIPS mark is dark artwork on transparency: brighten it instead of adding a plate. */
+html[data-theme="dark"] img.inline-badge[src$="nips-logo.svg"] {
+    filter: brightness(2.2) saturate(0.95);
 }
 
 html[data-theme="dark"] .navbar-theme-toggle:hover,
