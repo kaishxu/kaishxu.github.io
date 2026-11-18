@@ -33,6 +33,12 @@ h1, h2, h3, h4, h5, h6,
 }
 
 
+/* Force emoji presentation for the envelope in the bio (otherwise the text-style glyph is used). */
+.bio-emoji {
+    font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+    font-style: normal;
+}
+
 .text-profile-position {
     font-weight: 400;
 }
