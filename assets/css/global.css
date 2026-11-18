@@ -173,3 +173,169 @@ div.lazy {
         opacity: 0;
     }
 }
+
+/* ===== Theme toggle button (top-right) ===== */
+.navbar-theme-toggle {
+    background: transparent;
+    border: 0;
+    padding: 0.35rem 0.55rem;
+    margin-left: 0.5rem;
+    border-radius: 0.5rem;
+    color: #4b5158;
+    font-size: 1.05rem;
+    line-height: 1;
+    cursor: pointer;
+    transition: color .15s ease, background-color .15s ease;
+}
+
+.navbar-theme-toggle:hover,
+.navbar-theme-toggle:focus {
+    color: #111318;
+    background-color: rgba(0, 0, 0, .07);
+}
+
+.navbar-theme-toggle:focus-visible {
+    outline: 2px solid #7aa2ff;
+    outline-offset: 2px;
+}
+
+@media (min-width: 576px) {
+    .navbar-theme-toggle {
+        order: 3;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .navbar-toggler {
+        margin-left: auto;
+    }
+}
+
+/* ===== Dark theme ===== */
+html[data-theme="dark"] {
+    color-scheme: dark;
+    background-color: #15171c;
+}
+
+html[data-theme="dark"] body {
+    background-color: #15171c !important;
+    color: #dfe3e9;
+}
+
+html[data-theme="dark"] .bg-light {
+    background-color: #15171c !important;
+}
+
+html[data-theme="dark"] .bg-white,
+html[data-theme="dark"] .card {
+    background-color: #1b1f26 !important;
+}
+
+html[data-theme="dark"] .card {
+    border-color: #272c35 !important;
+}
+
+html[data-theme="dark"] .shadow-sm {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .55) !important;
+}
+
+html[data-theme="dark"] .navbar,
+html[data-theme="dark"] .navbar.bg-light {
+    background-color: #1b1f26 !important;
+    border-bottom: 1px solid #262b33;
+}
+
+html[data-theme="dark"] .navbar-brand,
+html[data-theme="dark"] .navbar-light .navbar-nav .nav-link {
+    color: #cbd3de;
+}
+
+html[data-theme="dark"] .navbar-light .navbar-nav .nav-link:hover,
+html[data-theme="dark"] .navbar-light .navbar-nav .active > .nav-link {
+    color: #ffffff;
+}
+
+html[data-theme="dark"] .navbar-toggler {
+    color: #cbd3de;
+    border-color: #39404b;
+}
+
+html[data-theme="dark"] .text-body {
+    color: #dfe3e9 !important;
+}
+
+html[data-theme="dark"] .text-muted {
+    color: #98a2b3 !important;
+}
+
+html[data-theme="dark"] a {
+    color: #78a9ff;
+}
+
+html[data-theme="dark"] a:hover {
+    color: #a9c8ff;
+}
+
+html[data-theme="dark"] .border,
+html[data-theme="dark"] .border-top,
+html[data-theme="dark"] .border-bottom,
+html[data-theme="dark"] .border-gray {
+    border-color: #2b313b !important;
+}
+
+html[data-theme="dark"] hr {
+    border-top-color: #2b313b;
+}
+
+html[data-theme="dark"] mark {
+    background-color: #4a3f1c;
+    color: #f0e2bb;
+}
+
+html[data-theme="dark"] .img-thumbnail {
+    background-color: #232830;
+    border-color: #343b46;
+}
+
+html[data-theme="dark"] .alert-warning {
+    background-color: #332b14;
+    border-color: #6a5a22;
+    color: #f3e0a6;
+}
+
+html[data-theme="dark"] .fab.fa-github,
+html[data-theme="dark"] .fab.fa-x-twitter {
+    color: #e2e7ee !important;
+}
+
+html[data-theme="dark"] .fab.fa-github:hover,
+html[data-theme="dark"] .fab.fa-x-twitter:hover {
+    color: #ffffff !important;
+}
+
+html[data-theme="dark"] .navbar-theme-toggle {
+    color: #cbd3de;
+}
+
+/* Logos that are dark artwork on transparency need a light plate to stay legible. */
+html[data-theme="dark"] img.inline-badge[src$="nips-logo.svg"],
+html[data-theme="dark"] img.inline-badge[src$="nature_logo.png"] {
+    background-color: #edf0f5;
+    border-radius: 3px;
+    padding: 1px 3px;
+    box-sizing: content-box;
+}
+
+html[data-theme="dark"] .navbar-theme-toggle:hover,
+html[data-theme="dark"] .navbar-theme-toggle:focus {
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, .08);
+}
+
+.pub-overlay {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+html[data-theme="dark"] .pub-overlay {
+    background-color: rgba(27, 31, 38, 0.92);
+}
