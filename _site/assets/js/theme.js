@@ -1,8 +1,9 @@
-// Three-state theme switch: auto (follows the system) -> dark -> light -> auto.
+// Theme menu: pick "auto" (follows the system), "dark" or "light".
 // The stored mode is applied before first paint by an inline script in the layouts.
 (function () {
     var root = document.documentElement;
-    var buttons = document.querySelectorAll('[data-theme-toggle]');
+    var button = document.querySelector('[data-theme-toggle]');
+    var choices = document.querySelectorAll('[data-theme-choice]');
     var media = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
 
     var MODES = ['auto', 'dark', 'light'];
@@ -32,26 +33,29 @@
 
     function render() {
         var mode = currentMode();
-        var dark = isDark(mode);
-        var next = MODES[(MODES.indexOf(mode) + 1) % MODES.length];
-        var label = 'Theme: ' + NAMES[mode] + '. Click for ' + NAMES[next] + '.';
 
         root.setAttribute('data-theme-mode', mode);
 
-        if (dark) {
+        if (isDark(mode)) {
             root.setAttribute('data-theme', 'dark');
         } else {
             root.removeAttribute('data-theme');
         }
 
-        buttons.forEach(function (button) {
+        if (button) {
             var icon = button.querySelector('i');
             if (icon) {
                 icon.classList.remove('fa-circle-half-stroke', 'fa-moon', 'fa-sun');
                 icon.classList.add(ICONS[mode]);
             }
-            button.setAttribute('aria-label', label);
-            button.setAttribute('title', label);
+            button.setAttribute('aria-label', 'Theme: ' + NAMES[mode] + '. Open menu to change.');
+            button.setAttribute('title', 'Theme: ' + NAMES[mode]);
+        }
+
+        choices.forEach(function (choice) {
+            var active = choice.getAttribute('data-theme-choice') === mode;
+            choice.classList.toggle('active', active);
+            choice.setAttribute('aria-checked', active ? 'true' : 'false');
         });
     }
 
@@ -67,11 +71,51 @@
 
     render();
 
-    buttons.forEach(function (button) {
-        button.addEventListener('click', function () {
-            var mode = currentMode();
-            setMode(MODES[(MODES.indexOf(mode) + 1) % MODES.length]);
+    // The menu is opened/closed here rather than by Bootstrap, so it keeps working
+    // even if the jQuery/Bootstrap bundle from the CDN is slow or blocked.
+    var dropdown = button ? button.closest('.dropdown') : null;
+    var menu = dropdown ? dropdown.querySelector('.theme-menu') : null;
+
+    function closeMenu() {
+        if (menu) { menu.classList.remove('show'); }
+        if (button) { button.setAttribute('aria-expanded', 'false'); }
+    }
+
+    function openMenu() {
+        if (menu) { menu.classList.add('show'); }
+        if (button) { button.setAttribute('aria-expanded', 'true'); }
+    }
+
+    if (button) {
+        button.addEventListener('click', function (event) {
+            event.preventDefault();
+            event.stopPropagation();
+            if (menu && menu.classList.contains('show')) {
+                closeMenu();
+            } else {
+                openMenu();
+            }
         });
+    }
+
+    choices.forEach(function (choice) {
+        choice.addEventListener('click', function (event) {
+            event.preventDefault();
+            setMode(choice.getAttribute('data-theme-choice'));
+            closeMenu();
+        });
+    });
+
+    document.addEventListener('click', function (event) {
+        if (dropdown && !dropdown.contains(event.target)) {
+            closeMenu();
+        }
+    });
+
+    document.addEventListener('keydown', function (event) {
+        if (event.key === 'Escape') {
+            closeMenu();
+        }
     });
 
     // Keep "auto" in sync when the system switches between light and dark.
