@@ -26,8 +26,16 @@
             {% endif %}
 
             {% if site.data.profile.cv_link %}
-            <a class="no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}" aria-label="CV">
-                <i class="fas fa-file-alt"></i></a>
+            <a class="no-break cv-link" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}" aria-label="CV" title="CV">
+                <svg class="cv-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                    <rect x="3.9" y="2.4" width="12.4" height="19.2" rx="1.9" fill="none" stroke="currentColor" stroke-width="1.7"/>
+                    <line x1="6.9" y1="7.2" x2="13.3" y2="7.2" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+                    <line x1="6.9" y1="10.3" x2="13.3" y2="10.3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+                    <line x1="6.9" y1="13.4" x2="13.3" y2="13.4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+                    <circle cx="17.1" cy="16.9" r="5" fill="var(--nav-bg, #f8f9fa)" stroke="currentColor" stroke-width="1.6"/>
+                    <circle cx="17.1" cy="15.5" r="1.55" fill="currentColor"/>
+                    <path d="M14.5 19.6c.35-1.5 1.25-2.25 2.6-2.25s2.25.75 2.6 2.25" fill="currentColor"/>
+                </svg></a>
             {% endif %}
         </div>
         {% else %}

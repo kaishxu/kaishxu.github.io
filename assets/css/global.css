@@ -80,6 +80,26 @@ h1, h2, h3, h4, h5, h6,
     margin-right: 0;
 }
 
+/* CV icon: a document with a person badge, so it reads as "CV" at a glance. */
+.cv-icon {
+    width: 1.05em;
+    height: 1.05em;
+    vertical-align: -0.16em;
+    color: #1f2329;
+}
+
+html[data-theme="dark"] .cv-icon {
+    color: #e2e7ee;
+}
+
+html[data-theme="dark"] {
+    --nav-bg: #1b1f26;
+}
+
+html:not([data-theme="dark"]) {
+    --nav-bg: #f8f9fa;
+}
+
 /* Original brand colors for social media icons */
 .fas.fa-at {
     color: #c5221f !important; /* Email red */
