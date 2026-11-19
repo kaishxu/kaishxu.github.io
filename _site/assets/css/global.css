@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6,
 
 /* CV icon: document with a folded corner and "CV". */
 .cv-icon {
-    width: 1.05em;
+    width: auto;
     height: 1.05em;
     vertical-align: -0.16em;
     color: #007bff;
