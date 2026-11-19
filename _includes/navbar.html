@@ -39,51 +39,17 @@
 
             {% if site.data.profile.cv_link %}
             <a class="no-break cv-link" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}" aria-label="CV" title="CV">
-                <svg class="cv-icon" xmlns="http://www.w3.org/2000/svg"
-                     viewBox="0 0 576 656"
-                     aria-hidden="true" focusable="false">
-                  <!-- Document silhouette and folded corner -->
-                  <path fill="currentColor" fill-rule="evenodd" d="
-                    M 96,61
-                    H 407
-                    C 416,61 422,64 429,71
-                    L 518,160
-                    C 524,166 527,174 527,183
-                    V 566
-                    C 527,592 506,612 480,612
-                    H 96
-                    C 70,612 49,591 49,565
-                    V 108
-                    C 49,82 70,61 96,61
-                    Z
-
-                    M 97,107
-                    H 382
-                    V 157
-                    C 382,183 403,203 430,203
-                    H 479
-                    V 566
-                    H 97
-                    Z"/>
-
-                  <!-- Rounded CV lettering -->
-                  <g fill="none" stroke="currentColor" stroke-width="43"
-                     stroke-linecap="round" stroke-linejoin="round">
-                    <path d="M 253,253
-                             C 242,241 229,238 215,238
-                             C 186,238 164,262 164,291
-                             C 164,320 186,342 215,342
-                             C 230,342 243,337 253,327"/>
-                    <path d="M 326,238 L 369,343 L 412,238"/>
-                  </g>
-
-                  <!-- Text lines -->
-                  <g fill="currentColor">
-                    <rect x="142" y="399" width="79" height="43" rx="21.5"/>
-                    <rect x="258" y="399" width="176" height="43" rx="21.5"/>
-                    <rect x="142" y="475" width="79" height="44" rx="22"/>
-                    <rect x="258" y="475" width="176" height="44" rx="22"/>
-                  </g>
+                <svg class="cv-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 514 604" fill="none" aria-hidden="true" focusable="false">
+                  <mask id="cvCutouts" maskUnits="userSpaceOnUse" x="46" y="52" width="388" height="493">
+                    <rect x="46" y="52" width="388" height="493" fill="white"/>
+                    <circle cx="187" cy="193.5" r="52.5" fill="black"/>
+                    <path d="M170 263.5h34c29.5 0 53.5 24 53.5 53.5V352c0 9.4-7.6 17-17 17h-107c-9.4 0-17-7.6-17-17v-35c0-29.5 24-53.5 53.5-53.5Z" fill="black"/>
+                    <rect x="293" y="246" width="70" height="35" rx="17.5" fill="black"/>
+                    <rect x="293" y="334" width="70" height="35" rx="17.5" fill="black"/>
+                    <rect x="116.5" y="422" width="246.5" height="35" rx="17.5" fill="black"/>
+                  </mask>
+                  <path d="M99 52h194v87c0 29.8 24.2 54 54 54h87v298c0 29.8-24.2 54-54 54H100c-29.8 0-54-24.2-54-54V105c0-29.3 23.7-53 53-53Z" fill="currentColor" mask="url(#cvCutouts)"/>
+                  <path d="M328.5 62.5 423.5 157.5h-77.7c-9.6 0-17.3-7.7-17.3-17.3Z" fill="currentColor"/>
                 </svg></a>
             {% endif %}
         </div>
