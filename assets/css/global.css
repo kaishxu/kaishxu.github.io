@@ -74,6 +74,42 @@ a:focus {
     font-size: 0.9375rem;
 }
 
+/* The one-paragraph summary stays tucked away so the list reads as a compact
+   index; hovering (or tabbing into) a row unfolds it. Devices without a
+   hovering pointer, such as phones and tablets, keep it open instead. */
+.pub-abstract {
+    display: grid;
+    grid-template-rows: 1fr;
+    transition: grid-template-rows 0.28s ease, opacity 0.22s ease;
+}
+
+.pub-abstract > * {
+    min-height: 0;
+    overflow: hidden;
+}
+
+@media (hover: hover) and (min-width: 768px) {
+    .pub-abstract {
+        grid-template-rows: 0fr;
+        opacity: 0;
+    }
+
+    .publication-item:hover .pub-abstract,
+    .publication-item:has(:focus-visible) .pub-abstract {
+        grid-template-rows: 1fr;
+        opacity: 1;
+    }
+}
+
+/* Paper and PDF copies should carry the summaries even though the screen
+   version keeps them folded. */
+@media print {
+    .pub-abstract {
+        grid-template-rows: 1fr !important;
+        opacity: 1 !important;
+    }
+}
+
 .navbar {
     opacity: 0.95;
 }
@@ -741,7 +777,8 @@ body.pub-lightbox-open {
 @media (prefers-reduced-motion: reduce) {
     .pub-cover-link img,
     .pub-cover-zoom,
-    .pub-lightbox-image {
+    .pub-lightbox-image,
+    .pub-abstract {
         transition: none;
     }
 
