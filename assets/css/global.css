@@ -647,11 +647,6 @@ body.pub-lightbox-open {
     scrollbar-color: rgba(255, 255, 255, 0.3) transparent;
 }
 
-.pub-lightbox-stage.is-zoomed {
-    display: block;
-    cursor: zoom-out;
-}
-
 .pub-lightbox-image {
     display: block;
     width: auto;
@@ -661,21 +656,12 @@ body.pub-lightbox-open {
     border-radius: 0.35rem;
     background-color: #fff;
     box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.5);
-    cursor: zoom-in;
     opacity: 0;
     transition: opacity 0.2s ease;
 }
 
 .pub-lightbox.is-loaded .pub-lightbox-image {
     opacity: 1;
-}
-
-.pub-lightbox-stage.is-zoomed .pub-lightbox-image {
-    max-width: none;
-    max-height: none;
-    margin: 0 auto;
-    border-radius: 0;
-    cursor: zoom-out;
 }
 
 .pub-lightbox-loader {
@@ -748,9 +734,4 @@ body.pub-lightbox-open {
 
 .pub-lightbox.is-error .pub-lightbox-loader {
     display: none;
-}
-
-.pub-lightbox.is-full .pub-lightbox-stage,
-.pub-lightbox.is-full .pub-lightbox-image {
-    cursor: default;
 }
