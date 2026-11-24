@@ -1,0 +1,10 @@
+# Jekyll build output. GitHub Pages builds the site from the sources, so the
+# generated directory is not tracked; run `bundle exec jekyll build` to rebuild it locally.
+_site/
+
+# Jekyll / Sass build caches
+.jekyll-cache/
+.sass-cache/
+
+# macOS
+.DS_Store
