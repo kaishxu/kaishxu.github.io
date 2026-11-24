@@ -348,6 +348,35 @@ $a^2 + b^2 = c^2$
 </footer>
 
 
+    <div class="pub-lightbox" id="pub-lightbox" role="dialog" aria-modal="true" aria-labelledby="pub-lightbox-title" aria-hidden="true">
+    <div class="pub-lightbox-backdrop" data-pub-lightbox-close></div>
+    <div class="pub-lightbox-inner">
+        <div class="pub-lightbox-header">
+            <p class="pub-lightbox-title" id="pub-lightbox-title"></p>
+            <div class="pub-lightbox-actions">
+                <button type="button" class="pub-lightbox-btn" data-pub-lightbox-zoom aria-pressed="false" aria-label="Toggle zoom" title="Toggle zoom">
+                    <i class="fas fa-magnifying-glass-plus" aria-hidden="true"></i>
+                </button>
+                <a class="pub-lightbox-btn" data-pub-lightbox-original href="#" target="_blank" rel="noopener noreferrer" aria-label="Open the original image in a new tab" title="Open original image">
+                    <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i>
+                </a>
+                <button type="button" class="pub-lightbox-btn" data-pub-lightbox-close aria-label="Close" title="Close (Esc)">
+                    <i class="fas fa-xmark" aria-hidden="true"></i>
+                </button>
+            </div>
+        </div>
+        <div class="pub-lightbox-stage" data-pub-lightbox-stage>
+            <img class="pub-lightbox-image" data-pub-lightbox-image alt="" decoding="async">
+            <div class="pub-lightbox-loader" data-pub-lightbox-loader aria-hidden="true"></div>
+        </div>
+        <p class="pub-lightbox-hint">
+            <span data-pub-lightbox-hint>Click the image to zoom in</span>
+            <span class="pub-lightbox-keyhint"> · <kbd>Esc</kbd> to close</span>
+        </p>
+    </div>
+</div>
+
+
     <!-- Scripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
@@ -370,6 +399,7 @@ $a^2 + b^2 = c^2$
         });
     </script>
     <script src="/assets/js/common.js"></script>
+    <script src="/assets/js/publication_lightbox.js"></script>
     <script src="/assets/js/bubble_visual_hash.js"></script>
     <script src="/assets/js/semantic_scholar_citation_count.js"></script>
 </body>
