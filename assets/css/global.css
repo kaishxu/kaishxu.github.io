@@ -53,6 +53,23 @@ h1, h2, h3, h4, h5, h6,
     font-size: 2.25rem;
 }
 
+/* Inline links carry a calmer navy than Bootstrap's default #007bff. */
+a {
+    color: #264fa3;
+}
+
+a:hover,
+a:focus {
+    color: #1b3a7f;
+}
+
+/* The year selector is a link list too, so its selected pill follows the
+   same colour instead of staying Bootstrap blue. */
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+    background-color: #264fa3;
+}
+
 .publication-item .small {
     font-size: 0.9375rem;
 }
@@ -361,11 +378,17 @@ html[data-theme="dark"] .text-muted {
 }
 
 html[data-theme="dark"] a {
-    color: #78a9ff;
+    color: #a8c0e8;
 }
 
-html[data-theme="dark"] a:hover {
-    color: #a9c8ff;
+html[data-theme="dark"] a:hover,
+html[data-theme="dark"] a:focus {
+    color: #cddcf6;
+}
+
+html[data-theme="dark"] .nav-pills .nav-link.active,
+html[data-theme="dark"] .nav-pills .show > .nav-link {
+    background-color: #2f5fb8;
 }
 
 html[data-theme="dark"] .border,
