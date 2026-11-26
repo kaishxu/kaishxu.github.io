@@ -3,7 +3,7 @@ title:          "RADAR: Enhancing Radiology Report Generation with Supplementary
 date:           2025-07-01 00:00:00 +0800
 selected:       false
 pub:            "ACL 2025"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Main Conference</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Main Proceedings</span>'
 pub_date:       ""
 abstract: >-
   We propose Radar, a framework for enhancing radiology report generation with supplementary knowledge injection. Radar improves report generation by systematically leveraging both the internal knowledge of an LLM and externally retrieved information. 

@@ -3,7 +3,7 @@ title:          "When LLMs Meets Acoustic Landmarks: An Efficient Approach to In
 date:           2024-11-01 00:00:00 +0800
 selected:       false
 pub:            "EMNLP 2024"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Main Conference</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Main Proceedings</span>'
 pub_date:       ""
 abstract: >-
   We investigate an efficient method for depression detection by integrating speech signals into LLMs utilizing Acoustic Landmarks. By incorporating acoustic landmarks, which are specific to the pronunciation of spoken words, our method adds critical dimensions to text transcripts. This integration also provides insights into the unique speech patterns of individuals, revealing the potential mental states of individuals.
