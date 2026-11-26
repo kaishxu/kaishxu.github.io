@@ -74,6 +74,14 @@ a:focus {
     font-size: 0.9375rem;
 }
 
+/* The homepage list hangs under the heading's first letter: 1rem card padding
+   + the star icon + its trailing space. Two classes so it also beats
+   Bootstrap's .no-gutters column reset. */
+.publication-item .pub-row-inset {
+    padding-left: 2.3125rem;
+    padding-right: 2.3125rem;
+}
+
 /* The one-paragraph summary stays tucked away so the list reads as a compact
    index; hovering (or tabbing into) a row unfolds it. Devices without a
    hovering pointer, such as phones and tablets, keep it open instead. */
