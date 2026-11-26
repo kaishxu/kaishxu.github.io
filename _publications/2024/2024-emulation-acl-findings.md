@@ -2,7 +2,7 @@
 title:          "Reasoning Like a Doctor: Improving Medical Dialogue Systems via Diagnostic Reasoning Process Alignment"
 date:           2024-08-01 00:00:00 +0800
 selected:       true
-pub:            "ACL 2024 Findings"
+pub:            "Findings of the Association for Computational Linguistics: ACL 2024"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Findings</span>'
 pub_date:       ""
 abstract: >-

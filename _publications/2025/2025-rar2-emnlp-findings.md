@@ -3,7 +3,7 @@ title:          "RAR^2: Retrieval-Augmented Medical Reasoning via Thought-Driven
 title_html:     "RAR<sup>2</sup>: Retrieval-Augmented Medical Reasoning via Thought-Driven Retrieval"
 date:           2025-11-01 00:00:00 +0800
 selected:       true
-pub:            "EMNLP 2025 Findings"
+pub:            "Findings of the Association for Computational Linguistics: EMNLP 2025"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">Findings</span>'
 pub_date:       ""
 abstract: >-

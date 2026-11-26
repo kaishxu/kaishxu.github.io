@@ -2,7 +2,7 @@
 title:          "LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling"
 date:           2025-09-20 00:00:00 +0800
 selected:       false
-pub:            "NeurIPS 2025"
+pub:            "The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">Poster</span>'
 pub_date:       ""
 abstract: >-

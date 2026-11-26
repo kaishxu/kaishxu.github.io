@@ -2,7 +2,7 @@
 title:          "ORGAN: Observation-Guided Radiology Report Generation via Tree Reasoning"
 date:           2023-07-01 00:00:00 +0800
 selected:       false
-pub:            "ACL 2023"
+pub:            "The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Main Proceedings</span>'
 pub_date:       ""
 abstract: >-

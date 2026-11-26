@@ -2,7 +2,7 @@
 title:          "When LLMs Meets Acoustic Landmarks: An Efficient Approach to Integrate Speech into Large Language Models for Depression Detection"
 date:           2024-11-01 00:00:00 +0800
 selected:       false
-pub:            "EMNLP 2024"
+pub:            "The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Main Proceedings</span>'
 pub_date:       ""
 abstract: >-

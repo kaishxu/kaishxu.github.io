@@ -2,7 +2,7 @@
 title:          "Subtle Errors in Reasoning: Preference Learning via Error-injected Self-editing"
 date:           2025-07-01 00:00:00 +0800
 selected:       true
-pub:            "ACL 2025"
+pub:            "The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Main Proceedings</span>'
 pub_date:       ""
 abstract: >-
