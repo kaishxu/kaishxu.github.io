@@ -1,6 +1,7 @@
 @charset "utf-8";
 body {
-    font-family: "Lato", sans-serif;
+    /* System UI stack: no webfont to download, Helvetica on macOS, Arial on Windows. */
+    font-family: "Helvetica", "Helvetica Neue", Arial, sans-serif;
     font-weight: 400;
     padding-top: 5.0rem;
 }
