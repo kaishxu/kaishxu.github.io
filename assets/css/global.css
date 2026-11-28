@@ -452,9 +452,8 @@ html[data-theme="dark"] mark {
     color: #f0e2bb;
 }
 
-html[data-theme="dark"] .img-thumbnail {
-    background-color: #232830;
-    border-color: #343b46;
+html[data-theme="dark"] .portrait-photo {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.45);
 }
 
 html[data-theme="dark"] .alert-warning {
